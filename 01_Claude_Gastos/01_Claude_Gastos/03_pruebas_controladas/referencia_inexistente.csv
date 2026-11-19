@@ -1,0 +1,2 @@
+linea_id,documento_id,numero_linea,articulo_id,cantidad,precio_unitario,descuento_pct,base_neta,impuesto,total_linea
+2,1,2,999999,1,377.19,0,377.19,45.26,422.45

@@ -1,0 +1,2001 @@
+tercero_id,nombre,segmento,municipio,plazo_dias
+1,Proveedor Sintetico 0001,Corporativo,Escuintla,45
+2,Proveedor Sintetico 0002,Pequeno,Villa Nueva,60
+3,Proveedor Sintetico 0003,Pequeno,Escuintla,15
+4,Proveedor Sintetico 0004,Corporativo,Zacapa,45
+5,Proveedor Sintetico 0005,Pequeno,Quetzaltenango,15
+6,Proveedor Sintetico 0006,Pequeno,Villa Nueva,15
+7,Proveedor Sintetico 0007,Mediano,Villa Nueva,60
+8,Proveedor Sintetico 0008,Mediano,Guatemala,30
+9,Proveedor Sintetico 0009,Corporativo,Zacapa,15
+10,Proveedor Sintetico 0010,Mediano,Quetzaltenango,30
+11,Proveedor Sintetico 0011,Pequeno,Guatemala,30
+12,Proveedor Sintetico 0012,Mediano,Guatemala,30
+13,Proveedor Sintetico 0013,Pequeno,Villa Nueva,45
+14,Proveedor Sintetico 0014,Pequeno,Quetzaltenango,15
+15,Proveedor Sintetico 0015,Pequeno,Guatemala,15
+16,Proveedor Sintetico 0016,Mediano,Mixco,60
+17,Proveedor Sintetico 0017,Corporativo,Quetzaltenango,45
+18,Proveedor Sintetico 0018,Mediano,Mixco,15
+19,Proveedor Sintetico 0019,Mediano,Escuintla,30
+20,Proveedor Sintetico 0020,Mediano,Guatemala,60
+21,Proveedor Sintetico 0021,Mediano,Mixco,15
+22,Proveedor Sintetico 0022,Corporativo,Guatemala,60
+23,Proveedor Sintetico 0023,Corporativo,Mixco,30
+24,Proveedor Sintetico 0024,Mediano,Mixco,30
+25,Proveedor Sintetico 0025,Mediano,Guatemala,30
+26,Proveedor Sintetico 0026,Pequeno,Mixco,60
+27,Proveedor Sintetico 0027,Pequeno,Villa Nueva,15
+28,Proveedor Sintetico 0028,Mediano,Escuintla,30
+29,Proveedor Sintetico 0029,Pequeno,Escuintla,60
+30,Proveedor Sintetico 0030,Pequeno,Zacapa,30
+31,Proveedor Sintetico 0031,Corporativo,Mixco,60
+32,Proveedor Sintetico 0032,Mediano,Guatemala,60
+33,Proveedor Sintetico 0033,Mediano,Escuintla,15
+34,Proveedor Sintetico 0034,Mediano,Guatemala,60
+35,Proveedor Sintetico 0035,Pequeno,Escuintla,45
+36,Proveedor Sintetico 0036,Pequeno,Guatemala,30
+37,Proveedor Sintetico 0037,Mediano,Mixco,30
+38,Proveedor Sintetico 0038,Mediano,Villa Nueva,60
+39,Proveedor Sintetico 0039,Mediano,Escuintla,15
+40,Proveedor Sintetico 0040,Pequeno,Villa Nueva,60
+41,Proveedor Sintetico 0041,Corporativo,Quetzaltenango,45
+42,Proveedor Sintetico 0042,Pequeno,Escuintla,60
+43,Proveedor Sintetico 0043,Pequeno,Villa Nueva,60
+44,Proveedor Sintetico 0044,Pequeno,Quetzaltenango,30
+45,Proveedor Sintetico 0045,Mediano,Escuintla,30
+46,Proveedor Sintetico 0046,Pequeno,Mixco,15
+47,Proveedor Sintetico 0047,Mediano,Villa Nueva,15
+48,Proveedor Sintetico 0048,Mediano,Zacapa,30
+49,Proveedor Sintetico 0049,Mediano,Villa Nueva,30
+50,Proveedor Sintetico 0050,Mediano,Guatemala,45
+51,Proveedor Sintetico 0051,Mediano,Zacapa,30
+52,Proveedor Sintetico 0052,Pequeno,Villa Nueva,60
+53,Proveedor Sintetico 0053,Corporativo,Quetzaltenango,15
+54,Proveedor Sintetico 0054,Pequeno,Quetzaltenango,45
+55,Proveedor Sintetico 0055,Pequeno,Villa Nueva,45
+56,Proveedor Sintetico 0056,Mediano,Villa Nueva,15
+57,Proveedor Sintetico 0057,Pequeno,Villa Nueva,15
+58,Proveedor Sintetico 0058,Mediano,Guatemala,45
+59,Proveedor Sintetico 0059,Pequeno,Villa Nueva,30
+60,Proveedor Sintetico 0060,Pequeno,Mixco,45
+61,Proveedor Sintetico 0061,Pequeno,Zacapa,30
+62,Proveedor Sintetico 0062,Corporativo,Escuintla,45
+63,Proveedor Sintetico 0063,Pequeno,Quetzaltenango,45
+64,Proveedor Sintetico 0064,Pequeno,Zacapa,15
+65,Proveedor Sintetico 0065,Pequeno,Quetzaltenango,15
+66,Proveedor Sintetico 0066,Mediano,Villa Nueva,30
+67,Proveedor Sintetico 0067,Pequeno,Escuintla,30
+68,Proveedor Sintetico 0068,Mediano,Guatemala,60
+69,Proveedor Sintetico 0069,Pequeno,Mixco,15
+70,Proveedor Sintetico 0070,Mediano,Guatemala,30
+71,Proveedor Sintetico 0071,Pequeno,Villa Nueva,60
+72,Proveedor Sintetico 0072,Mediano,Escuintla,60
+73,Proveedor Sintetico 0073,Corporativo,Zacapa,15
+74,Proveedor Sintetico 0074,Pequeno,Zacapa,15
+75,Proveedor Sintetico 0075,Corporativo,Villa Nueva,30
+76,Proveedor Sintetico 0076,Pequeno,Quetzaltenango,30
+77,Proveedor Sintetico 0077,Corporativo,Guatemala,45
+78,Proveedor Sintetico 0078,Pequeno,Zacapa,15
+79,Proveedor Sintetico 0079,Pequeno,Quetzaltenango,15
+80,Proveedor Sintetico 0080,Corporativo,Villa Nueva,45
+81,Proveedor Sintetico 0081,Mediano,Mixco,45
+82,Proveedor Sintetico 0082,Pequeno,Quetzaltenango,45
+83,Proveedor Sintetico 0083,Mediano,Villa Nueva,45
+84,Proveedor Sintetico 0084,Pequeno,Mixco,45
+85,Proveedor Sintetico 0085,Mediano,Zacapa,60
+86,Proveedor Sintetico 0086,Mediano,Guatemala,60
+87,Proveedor Sintetico 0087,Pequeno,Guatemala,15
+88,Proveedor Sintetico 0088,Pequeno,Quetzaltenango,15
+89,Proveedor Sintetico 0089,Mediano,Escuintla,45
+90,Proveedor Sintetico 0090,Mediano,Quetzaltenango,45
+91,Proveedor Sintetico 0091,Pequeno,Guatemala,60
+92,Proveedor Sintetico 0092,Pequeno,Villa Nueva,15
+93,Proveedor Sintetico 0093,Pequeno,Villa Nueva,60
+94,Proveedor Sintetico 0094,Pequeno,Mixco,45
+95,Proveedor Sintetico 0095,Mediano,Guatemala,45
+96,Proveedor Sintetico 0096,Mediano,Zacapa,15
+97,Proveedor Sintetico 0097,Mediano,Villa Nueva,60
+98,Proveedor Sintetico 0098,Mediano,Guatemala,45
+99,Proveedor Sintetico 0099,Mediano,Guatemala,45
+100,Proveedor Sintetico 0100,Corporativo,Zacapa,30
+101,Proveedor Sintetico 0101,Corporativo,Escuintla,45
+102,Proveedor Sintetico 0102,Corporativo,Quetzaltenango,30
+103,Proveedor Sintetico 0103,Pequeno,Quetzaltenango,15
+104,Proveedor Sintetico 0104,Mediano,Escuintla,60
+105,Proveedor Sintetico 0105,Pequeno,Zacapa,30
+106,Proveedor Sintetico 0106,Mediano,Escuintla,45
+107,Proveedor Sintetico 0107,Pequeno,Mixco,30
+108,Proveedor Sintetico 0108,Mediano,Escuintla,15
+109,Proveedor Sintetico 0109,Mediano,Quetzaltenango,30
+110,Proveedor Sintetico 0110,Mediano,Mixco,30
+111,Proveedor Sintetico 0111,Mediano,Escuintla,30
+112,Proveedor Sintetico 0112,Corporativo,Mixco,45
+113,Proveedor Sintetico 0113,Pequeno,Guatemala,30
+114,Proveedor Sintetico 0114,Pequeno,Guatemala,60
+115,Proveedor Sintetico 0115,Corporativo,Mixco,45
+116,Proveedor Sintetico 0116,Mediano,Zacapa,30
+117,Proveedor Sintetico 0117,Pequeno,Zacapa,15
+118,Proveedor Sintetico 0118,Mediano,Guatemala,15
+119,Proveedor Sintetico 0119,Mediano,Villa Nueva,45
+120,Proveedor Sintetico 0120,Pequeno,Escuintla,45
+121,Proveedor Sintetico 0121,Corporativo,Guatemala,30
+122,Proveedor Sintetico 0122,Corporativo,Guatemala,45
+123,Proveedor Sintetico 0123,Mediano,Zacapa,15
+124,Proveedor Sintetico 0124,Mediano,Escuintla,45
+125,Proveedor Sintetico 0125,Pequeno,Escuintla,60
+126,Proveedor Sintetico 0126,Pequeno,Mixco,60
+127,Proveedor Sintetico 0127,Corporativo,Mixco,45
+128,Proveedor Sintetico 0128,Mediano,Zacapa,60
+129,Proveedor Sintetico 0129,Corporativo,Mixco,45
+130,Proveedor Sintetico 0130,Pequeno,Escuintla,45
+131,Proveedor Sintetico 0131,Pequeno,Guatemala,45
+132,Proveedor Sintetico 0132,Pequeno,Villa Nueva,60
+133,Proveedor Sintetico 0133,Pequeno,Villa Nueva,30
+134,Proveedor Sintetico 0134,Mediano,Zacapa,60
+135,Proveedor Sintetico 0135,Pequeno,Zacapa,60
+136,Proveedor Sintetico 0136,Pequeno,Zacapa,15
+137,Proveedor Sintetico 0137,Mediano,Escuintla,60
+138,Proveedor Sintetico 0138,Pequeno,Quetzaltenango,45
+139,Proveedor Sintetico 0139,Pequeno,Villa Nueva,60
+140,Proveedor Sintetico 0140,Pequeno,Guatemala,60
+141,Proveedor Sintetico 0141,Pequeno,Guatemala,60
+142,Proveedor Sintetico 0142,Pequeno,Guatemala,30
+143,Proveedor Sintetico 0143,Pequeno,Guatemala,30
+144,Proveedor Sintetico 0144,Pequeno,Villa Nueva,15
+145,Proveedor Sintetico 0145,Mediano,Quetzaltenango,60
+146,Proveedor Sintetico 0146,Mediano,Zacapa,45
+147,Proveedor Sintetico 0147,Mediano,Mixco,45
+148,Proveedor Sintetico 0148,Mediano,Quetzaltenango,30
+149,Proveedor Sintetico 0149,Mediano,Mixco,30
+150,Proveedor Sintetico 0150,Pequeno,Escuintla,15
+151,Proveedor Sintetico 0151,Corporativo,Zacapa,45
+152,Proveedor Sintetico 0152,Corporativo,Mixco,60
+153,Proveedor Sintetico 0153,Pequeno,Villa Nueva,45
+154,Proveedor Sintetico 0154,Pequeno,Villa Nueva,30
+155,Proveedor Sintetico 0155,Mediano,Guatemala,15
+156,Proveedor Sintetico 0156,Pequeno,Villa Nueva,45
+157,Proveedor Sintetico 0157,Pequeno,Zacapa,60
+158,Proveedor Sintetico 0158,Pequeno,Guatemala,45
+159,Proveedor Sintetico 0159,Pequeno,Escuintla,15
+160,Proveedor Sintetico 0160,Corporativo,Guatemala,45
+161,Proveedor Sintetico 0161,Pequeno,Zacapa,30
+162,Proveedor Sintetico 0162,Mediano,Guatemala,30
+163,Proveedor Sintetico 0163,Corporativo,Quetzaltenango,15
+164,Proveedor Sintetico 0164,Mediano,Guatemala,15
+165,Proveedor Sintetico 0165,Mediano,Zacapa,60
+166,Proveedor Sintetico 0166,Mediano,Mixco,45
+167,Proveedor Sintetico 0167,Pequeno,Zacapa,15
+168,Proveedor Sintetico 0168,Pequeno,Guatemala,30
+169,Proveedor Sintetico 0169,Mediano,Escuintla,60
+170,Proveedor Sintetico 0170,Mediano,Guatemala,45
+171,Proveedor Sintetico 0171,Mediano,Zacapa,30
+172,Proveedor Sintetico 0172,Mediano,Mixco,60
+173,Proveedor Sintetico 0173,Mediano,Escuintla,30
+174,Proveedor Sintetico 0174,Pequeno,Mixco,60
+175,Proveedor Sintetico 0175,Pequeno,Mixco,60
+176,Proveedor Sintetico 0176,Pequeno,Escuintla,30
+177,Proveedor Sintetico 0177,Corporativo,Quetzaltenango,30
+178,Proveedor Sintetico 0178,Mediano,Mixco,60
+179,Proveedor Sintetico 0179,Pequeno,Zacapa,45
+180,Proveedor Sintetico 0180,Pequeno,Villa Nueva,15
+181,Proveedor Sintetico 0181,Mediano,Escuintla,30
+182,Proveedor Sintetico 0182,Corporativo,Escuintla,15
+183,Proveedor Sintetico 0183,Pequeno,Mixco,30
+184,Proveedor Sintetico 0184,Mediano,Guatemala,60
+185,Proveedor Sintetico 0185,Mediano,Guatemala,30
+186,Proveedor Sintetico 0186,Mediano,Escuintla,45
+187,Proveedor Sintetico 0187,Pequeno,Villa Nueva,15
+188,Proveedor Sintetico 0188,Pequeno,Guatemala,15
+189,Proveedor Sintetico 0189,Pequeno,Guatemala,30
+190,Proveedor Sintetico 0190,Corporativo,Mixco,15
+191,Proveedor Sintetico 0191,Pequeno,Mixco,60
+192,Proveedor Sintetico 0192,Mediano,Quetzaltenango,30
+193,Proveedor Sintetico 0193,Corporativo,Zacapa,30
+194,Proveedor Sintetico 0194,Mediano,Guatemala,15
+195,Proveedor Sintetico 0195,Corporativo,Escuintla,30
+196,Proveedor Sintetico 0196,Pequeno,Villa Nueva,15
+197,Proveedor Sintetico 0197,Mediano,Zacapa,30
+198,Proveedor Sintetico 0198,Mediano,Escuintla,15
+199,Proveedor Sintetico 0199,Pequeno,Escuintla,30
+200,Proveedor Sintetico 0200,Pequeno,Mixco,45
+201,Proveedor Sintetico 0201,Pequeno,Escuintla,15
+202,Proveedor Sintetico 0202,Pequeno,Quetzaltenango,45
+203,Proveedor Sintetico 0203,Pequeno,Quetzaltenango,45
+204,Proveedor Sintetico 0204,Corporativo,Villa Nueva,45
+205,Proveedor Sintetico 0205,Mediano,Quetzaltenango,15
+206,Proveedor Sintetico 0206,Pequeno,Zacapa,45
+207,Proveedor Sintetico 0207,Pequeno,Zacapa,45
+208,Proveedor Sintetico 0208,Pequeno,Zacapa,30
+209,Proveedor Sintetico 0209,Mediano,Mixco,30
+210,Proveedor Sintetico 0210,Mediano,Quetzaltenango,45
+211,Proveedor Sintetico 0211,Mediano,Mixco,45
+212,Proveedor Sintetico 0212,Corporativo,Zacapa,60
+213,Proveedor Sintetico 0213,Pequeno,Quetzaltenango,60
+214,Proveedor Sintetico 0214,Pequeno,Quetzaltenango,15
+215,Proveedor Sintetico 0215,Corporativo,Mixco,45
+216,Proveedor Sintetico 0216,Pequeno,Guatemala,30
+217,Proveedor Sintetico 0217,Mediano,Zacapa,45
+218,Proveedor Sintetico 0218,Mediano,Mixco,15
+219,Proveedor Sintetico 0219,Pequeno,Villa Nueva,60
+220,Proveedor Sintetico 0220,Mediano,Escuintla,45
+221,Proveedor Sintetico 0221,Mediano,Escuintla,30
+222,Proveedor Sintetico 0222,Corporativo,Guatemala,45
+223,Proveedor Sintetico 0223,Corporativo,Mixco,15
+224,Proveedor Sintetico 0224,Pequeno,Mixco,15
+225,Proveedor Sintetico 0225,Mediano,Villa Nueva,15
+226,Proveedor Sintetico 0226,Corporativo,Guatemala,15
+227,Proveedor Sintetico 0227,Pequeno,Zacapa,60
+228,Proveedor Sintetico 0228,Corporativo,Quetzaltenango,30
+229,Proveedor Sintetico 0229,Mediano,Mixco,45
+230,Proveedor Sintetico 0230,Pequeno,Mixco,45
+231,Proveedor Sintetico 0231,Pequeno,Quetzaltenango,60
+232,Proveedor Sintetico 0232,Corporativo,Villa Nueva,30
+233,Proveedor Sintetico 0233,Mediano,Villa Nueva,60
+234,Proveedor Sintetico 0234,Pequeno,Villa Nueva,45
+235,Proveedor Sintetico 0235,Mediano,Zacapa,45
+236,Proveedor Sintetico 0236,Pequeno,Guatemala,45
+237,Proveedor Sintetico 0237,Mediano,Villa Nueva,60
+238,Proveedor Sintetico 0238,Mediano,Zacapa,45
+239,Proveedor Sintetico 0239,Mediano,Guatemala,60
+240,Proveedor Sintetico 0240,Pequeno,Mixco,30
+241,Proveedor Sintetico 0241,Pequeno,Villa Nueva,60
+242,Proveedor Sintetico 0242,Mediano,Zacapa,45
+243,Proveedor Sintetico 0243,Corporativo,Mixco,30
+244,Proveedor Sintetico 0244,Pequeno,Villa Nueva,15
+245,Proveedor Sintetico 0245,Corporativo,Mixco,15
+246,Proveedor Sintetico 0246,Mediano,Zacapa,45
+247,Proveedor Sintetico 0247,Pequeno,Guatemala,45
+248,Proveedor Sintetico 0248,Mediano,Escuintla,45
+249,Proveedor Sintetico 0249,Mediano,Mixco,60
+250,Proveedor Sintetico 0250,Pequeno,Zacapa,30
+251,Proveedor Sintetico 0251,Corporativo,Quetzaltenango,60
+252,Proveedor Sintetico 0252,Pequeno,Guatemala,60
+253,Proveedor Sintetico 0253,Corporativo,Guatemala,15
+254,Proveedor Sintetico 0254,Mediano,Villa Nueva,45
+255,Proveedor Sintetico 0255,Pequeno,Mixco,15
+256,Proveedor Sintetico 0256,Mediano,Quetzaltenango,30
+257,Proveedor Sintetico 0257,Pequeno,Mixco,60
+258,Proveedor Sintetico 0258,Pequeno,Zacapa,15
+259,Proveedor Sintetico 0259,Pequeno,Zacapa,45
+260,Proveedor Sintetico 0260,Mediano,Mixco,15
+261,Proveedor Sintetico 0261,Mediano,Quetzaltenango,30
+262,Proveedor Sintetico 0262,Pequeno,Zacapa,60
+263,Proveedor Sintetico 0263,Mediano,Escuintla,45
+264,Proveedor Sintetico 0264,Mediano,Villa Nueva,60
+265,Proveedor Sintetico 0265,Pequeno,Mixco,45
+266,Proveedor Sintetico 0266,Corporativo,Villa Nueva,45
+267,Proveedor Sintetico 0267,Mediano,Villa Nueva,45
+268,Proveedor Sintetico 0268,Mediano,Mixco,60
+269,Proveedor Sintetico 0269,Pequeno,Quetzaltenango,45
+270,Proveedor Sintetico 0270,Corporativo,Escuintla,45
+271,Proveedor Sintetico 0271,Mediano,Mixco,45
+272,Proveedor Sintetico 0272,Pequeno,Mixco,15
+273,Proveedor Sintetico 0273,Mediano,Escuintla,15
+274,Proveedor Sintetico 0274,Mediano,Mixco,45
+275,Proveedor Sintetico 0275,Mediano,Zacapa,60
+276,Proveedor Sintetico 0276,Corporativo,Guatemala,15
+277,Proveedor Sintetico 0277,Pequeno,Escuintla,45
+278,Proveedor Sintetico 0278,Pequeno,Villa Nueva,15
+279,Proveedor Sintetico 0279,Corporativo,Escuintla,45
+280,Proveedor Sintetico 0280,Pequeno,Villa Nueva,30
+281,Proveedor Sintetico 0281,Mediano,Villa Nueva,15
+282,Proveedor Sintetico 0282,Pequeno,Zacapa,30
+283,Proveedor Sintetico 0283,Mediano,Quetzaltenango,60
+284,Proveedor Sintetico 0284,Corporativo,Quetzaltenango,60
+285,Proveedor Sintetico 0285,Corporativo,Guatemala,30
+286,Proveedor Sintetico 0286,Pequeno,Escuintla,30
+287,Proveedor Sintetico 0287,Pequeno,Escuintla,45
+288,Proveedor Sintetico 0288,Corporativo,Mixco,60
+289,Proveedor Sintetico 0289,Pequeno,Villa Nueva,15
+290,Proveedor Sintetico 0290,Corporativo,Guatemala,15
+291,Proveedor Sintetico 0291,Mediano,Guatemala,45
+292,Proveedor Sintetico 0292,Pequeno,Quetzaltenango,60
+293,Proveedor Sintetico 0293,Mediano,Mixco,15
+294,Proveedor Sintetico 0294,Mediano,Quetzaltenango,15
+295,Proveedor Sintetico 0295,Mediano,Villa Nueva,30
+296,Proveedor Sintetico 0296,Pequeno,Quetzaltenango,15
+297,Proveedor Sintetico 0297,Mediano,Villa Nueva,60
+298,Proveedor Sintetico 0298,Corporativo,Quetzaltenango,45
+299,Proveedor Sintetico 0299,Pequeno,Mixco,45
+300,Proveedor Sintetico 0300,Mediano,Zacapa,30
+301,Proveedor Sintetico 0301,Pequeno,Escuintla,30
+302,Proveedor Sintetico 0302,Mediano,Escuintla,45
+303,Proveedor Sintetico 0303,Pequeno,Escuintla,15
+304,Proveedor Sintetico 0304,Mediano,Villa Nueva,15
+305,Proveedor Sintetico 0305,Pequeno,Quetzaltenango,15
+306,Proveedor Sintetico 0306,Pequeno,Escuintla,15
+307,Proveedor Sintetico 0307,Corporativo,Escuintla,30
+308,Proveedor Sintetico 0308,Pequeno,Mixco,60
+309,Proveedor Sintetico 0309,Mediano,Guatemala,60
+310,Proveedor Sintetico 0310,Pequeno,Mixco,15
+311,Proveedor Sintetico 0311,Corporativo,Escuintla,15
+312,Proveedor Sintetico 0312,Pequeno,Guatemala,15
+313,Proveedor Sintetico 0313,Pequeno,Zacapa,15
+314,Proveedor Sintetico 0314,Pequeno,Quetzaltenango,45
+315,Proveedor Sintetico 0315,Corporativo,Mixco,15
+316,Proveedor Sintetico 0316,Corporativo,Mixco,45
+317,Proveedor Sintetico 0317,Mediano,Guatemala,45
+318,Proveedor Sintetico 0318,Mediano,Mixco,30
+319,Proveedor Sintetico 0319,Mediano,Quetzaltenango,45
+320,Proveedor Sintetico 0320,Mediano,Zacapa,30
+321,Proveedor Sintetico 0321,Mediano,Escuintla,15
+322,Proveedor Sintetico 0322,Corporativo,Mixco,15
+323,Proveedor Sintetico 0323,Pequeno,Zacapa,30
+324,Proveedor Sintetico 0324,Mediano,Villa Nueva,15
+325,Proveedor Sintetico 0325,Mediano,Villa Nueva,30
+326,Proveedor Sintetico 0326,Pequeno,Mixco,15
+327,Proveedor Sintetico 0327,Pequeno,Escuintla,60
+328,Proveedor Sintetico 0328,Pequeno,Guatemala,30
+329,Proveedor Sintetico 0329,Pequeno,Mixco,60
+330,Proveedor Sintetico 0330,Pequeno,Villa Nueva,15
+331,Proveedor Sintetico 0331,Mediano,Escuintla,15
+332,Proveedor Sintetico 0332,Pequeno,Mixco,30
+333,Proveedor Sintetico 0333,Pequeno,Escuintla,30
+334,Proveedor Sintetico 0334,Mediano,Zacapa,15
+335,Proveedor Sintetico 0335,Pequeno,Mixco,45
+336,Proveedor Sintetico 0336,Pequeno,Villa Nueva,30
+337,Proveedor Sintetico 0337,Pequeno,Zacapa,60
+338,Proveedor Sintetico 0338,Corporativo,Mixco,45
+339,Proveedor Sintetico 0339,Mediano,Guatemala,15
+340,Proveedor Sintetico 0340,Corporativo,Villa Nueva,45
+341,Proveedor Sintetico 0341,Corporativo,Escuintla,45
+342,Proveedor Sintetico 0342,Mediano,Zacapa,30
+343,Proveedor Sintetico 0343,Pequeno,Zacapa,30
+344,Proveedor Sintetico 0344,Mediano,Guatemala,45
+345,Proveedor Sintetico 0345,Mediano,Quetzaltenango,15
+346,Proveedor Sintetico 0346,Pequeno,Escuintla,45
+347,Proveedor Sintetico 0347,Mediano,Guatemala,45
+348,Proveedor Sintetico 0348,Pequeno,Guatemala,45
+349,Proveedor Sintetico 0349,Pequeno,Quetzaltenango,15
+350,Proveedor Sintetico 0350,Mediano,Guatemala,45
+351,Proveedor Sintetico 0351,Corporativo,Guatemala,45
+352,Proveedor Sintetico 0352,Mediano,Zacapa,60
+353,Proveedor Sintetico 0353,Pequeno,Quetzaltenango,30
+354,Proveedor Sintetico 0354,Pequeno,Villa Nueva,15
+355,Proveedor Sintetico 0355,Pequeno,Zacapa,15
+356,Proveedor Sintetico 0356,Mediano,Villa Nueva,60
+357,Proveedor Sintetico 0357,Mediano,Mixco,60
+358,Proveedor Sintetico 0358,Mediano,Mixco,15
+359,Proveedor Sintetico 0359,Pequeno,Villa Nueva,15
+360,Proveedor Sintetico 0360,Pequeno,Mixco,15
+361,Proveedor Sintetico 0361,Mediano,Villa Nueva,30
+362,Proveedor Sintetico 0362,Corporativo,Escuintla,45
+363,Proveedor Sintetico 0363,Pequeno,Guatemala,45
+364,Proveedor Sintetico 0364,Pequeno,Villa Nueva,15
+365,Proveedor Sintetico 0365,Pequeno,Villa Nueva,15
+366,Proveedor Sintetico 0366,Mediano,Zacapa,30
+367,Proveedor Sintetico 0367,Mediano,Villa Nueva,15
+368,Proveedor Sintetico 0368,Pequeno,Villa Nueva,45
+369,Proveedor Sintetico 0369,Pequeno,Zacapa,15
+370,Proveedor Sintetico 0370,Pequeno,Mixco,45
+371,Proveedor Sintetico 0371,Pequeno,Escuintla,45
+372,Proveedor Sintetico 0372,Pequeno,Escuintla,60
+373,Proveedor Sintetico 0373,Mediano,Guatemala,15
+374,Proveedor Sintetico 0374,Pequeno,Villa Nueva,45
+375,Proveedor Sintetico 0375,Pequeno,Villa Nueva,45
+376,Proveedor Sintetico 0376,Corporativo,Escuintla,30
+377,Proveedor Sintetico 0377,Mediano,Villa Nueva,30
+378,Proveedor Sintetico 0378,Corporativo,Mixco,30
+379,Proveedor Sintetico 0379,Mediano,Guatemala,45
+380,Proveedor Sintetico 0380,Pequeno,Mixco,15
+381,Proveedor Sintetico 0381,Pequeno,Zacapa,30
+382,Proveedor Sintetico 0382,Pequeno,Guatemala,30
+383,Proveedor Sintetico 0383,Pequeno,Mixco,60
+384,Proveedor Sintetico 0384,Pequeno,Villa Nueva,15
+385,Proveedor Sintetico 0385,Pequeno,Guatemala,30
+386,Proveedor Sintetico 0386,Corporativo,Guatemala,60
+387,Proveedor Sintetico 0387,Mediano,Quetzaltenango,15
+388,Proveedor Sintetico 0388,Pequeno,Zacapa,60
+389,Proveedor Sintetico 0389,Pequeno,Mixco,45
+390,Proveedor Sintetico 0390,Pequeno,Mixco,30
+391,Proveedor Sintetico 0391,Pequeno,Guatemala,15
+392,Proveedor Sintetico 0392,Pequeno,Zacapa,30
+393,Proveedor Sintetico 0393,Corporativo,Quetzaltenango,45
+394,Proveedor Sintetico 0394,Pequeno,Escuintla,30
+395,Proveedor Sintetico 0395,Pequeno,Zacapa,30
+396,Proveedor Sintetico 0396,Corporativo,Quetzaltenango,15
+397,Proveedor Sintetico 0397,Pequeno,Quetzaltenango,15
+398,Proveedor Sintetico 0398,Pequeno,Guatemala,45
+399,Proveedor Sintetico 0399,Mediano,Mixco,45
+400,Proveedor Sintetico 0400,Pequeno,Zacapa,60
+401,Proveedor Sintetico 0401,Mediano,Villa Nueva,15
+402,Proveedor Sintetico 0402,Pequeno,Escuintla,30
+403,Proveedor Sintetico 0403,Pequeno,Escuintla,60
+404,Proveedor Sintetico 0404,Pequeno,Zacapa,30
+405,Proveedor Sintetico 0405,Mediano,Mixco,15
+406,Proveedor Sintetico 0406,Corporativo,Villa Nueva,45
+407,Proveedor Sintetico 0407,Corporativo,Escuintla,30
+408,Proveedor Sintetico 0408,Pequeno,Villa Nueva,45
+409,Proveedor Sintetico 0409,Mediano,Escuintla,45
+410,Proveedor Sintetico 0410,Corporativo,Zacapa,15
+411,Proveedor Sintetico 0411,Mediano,Villa Nueva,15
+412,Proveedor Sintetico 0412,Pequeno,Quetzaltenango,15
+413,Proveedor Sintetico 0413,Pequeno,Guatemala,60
+414,Proveedor Sintetico 0414,Pequeno,Quetzaltenango,30
+415,Proveedor Sintetico 0415,Pequeno,Escuintla,15
+416,Proveedor Sintetico 0416,Pequeno,Villa Nueva,60
+417,Proveedor Sintetico 0417,Pequeno,Villa Nueva,60
+418,Proveedor Sintetico 0418,Mediano,Quetzaltenango,15
+419,Proveedor Sintetico 0419,Pequeno,Zacapa,45
+420,Proveedor Sintetico 0420,Mediano,Quetzaltenango,15
+421,Proveedor Sintetico 0421,Mediano,Escuintla,30
+422,Proveedor Sintetico 0422,Pequeno,Quetzaltenango,30
+423,Proveedor Sintetico 0423,Corporativo,Mixco,30
+424,Proveedor Sintetico 0424,Mediano,Villa Nueva,15
+425,Proveedor Sintetico 0425,Pequeno,Guatemala,60
+426,Proveedor Sintetico 0426,Mediano,Mixco,45
+427,Proveedor Sintetico 0427,Mediano,Villa Nueva,60
+428,Proveedor Sintetico 0428,Pequeno,Escuintla,15
+429,Proveedor Sintetico 0429,Mediano,Villa Nueva,30
+430,Proveedor Sintetico 0430,Mediano,Zacapa,60
+431,Proveedor Sintetico 0431,Pequeno,Guatemala,30
+432,Proveedor Sintetico 0432,Pequeno,Quetzaltenango,45
+433,Proveedor Sintetico 0433,Corporativo,Villa Nueva,60
+434,Proveedor Sintetico 0434,Pequeno,Quetzaltenango,30
+435,Proveedor Sintetico 0435,Mediano,Escuintla,60
+436,Proveedor Sintetico 0436,Pequeno,Escuintla,15
+437,Proveedor Sintetico 0437,Pequeno,Guatemala,45
+438,Proveedor Sintetico 0438,Pequeno,Escuintla,60
+439,Proveedor Sintetico 0439,Corporativo,Guatemala,45
+440,Proveedor Sintetico 0440,Pequeno,Zacapa,60
+441,Proveedor Sintetico 0441,Mediano,Villa Nueva,60
+442,Proveedor Sintetico 0442,Pequeno,Guatemala,45
+443,Proveedor Sintetico 0443,Mediano,Zacapa,60
+444,Proveedor Sintetico 0444,Pequeno,Guatemala,15
+445,Proveedor Sintetico 0445,Pequeno,Guatemala,15
+446,Proveedor Sintetico 0446,Pequeno,Guatemala,30
+447,Proveedor Sintetico 0447,Mediano,Villa Nueva,15
+448,Proveedor Sintetico 0448,Mediano,Guatemala,15
+449,Proveedor Sintetico 0449,Pequeno,Zacapa,45
+450,Proveedor Sintetico 0450,Pequeno,Zacapa,30
+451,Proveedor Sintetico 0451,Mediano,Guatemala,45
+452,Proveedor Sintetico 0452,Mediano,Escuintla,60
+453,Proveedor Sintetico 0453,Pequeno,Guatemala,15
+454,Proveedor Sintetico 0454,Pequeno,Quetzaltenango,30
+455,Proveedor Sintetico 0455,Mediano,Zacapa,30
+456,Proveedor Sintetico 0456,Pequeno,Villa Nueva,45
+457,Proveedor Sintetico 0457,Corporativo,Escuintla,45
+458,Proveedor Sintetico 0458,Corporativo,Quetzaltenango,60
+459,Proveedor Sintetico 0459,Pequeno,Escuintla,30
+460,Proveedor Sintetico 0460,Pequeno,Mixco,15
+461,Proveedor Sintetico 0461,Corporativo,Zacapa,15
+462,Proveedor Sintetico 0462,Corporativo,Quetzaltenango,15
+463,Proveedor Sintetico 0463,Mediano,Escuintla,15
+464,Proveedor Sintetico 0464,Mediano,Mixco,45
+465,Proveedor Sintetico 0465,Pequeno,Villa Nueva,60
+466,Proveedor Sintetico 0466,Pequeno,Guatemala,30
+467,Proveedor Sintetico 0467,Pequeno,Mixco,60
+468,Proveedor Sintetico 0468,Mediano,Mixco,45
+469,Proveedor Sintetico 0469,Corporativo,Mixco,45
+470,Proveedor Sintetico 0470,Pequeno,Zacapa,45
+471,Proveedor Sintetico 0471,Corporativo,Guatemala,45
+472,Proveedor Sintetico 0472,Pequeno,Zacapa,60
+473,Proveedor Sintetico 0473,Corporativo,Quetzaltenango,30
+474,Proveedor Sintetico 0474,Pequeno,Escuintla,15
+475,Proveedor Sintetico 0475,Corporativo,Escuintla,45
+476,Proveedor Sintetico 0476,Mediano,Quetzaltenango,60
+477,Proveedor Sintetico 0477,Mediano,Quetzaltenango,15
+478,Proveedor Sintetico 0478,Pequeno,Guatemala,45
+479,Proveedor Sintetico 0479,Pequeno,Quetzaltenango,15
+480,Proveedor Sintetico 0480,Mediano,Zacapa,15
+481,Proveedor Sintetico 0481,Corporativo,Escuintla,60
+482,Proveedor Sintetico 0482,Mediano,Zacapa,60
+483,Proveedor Sintetico 0483,Corporativo,Escuintla,30
+484,Proveedor Sintetico 0484,Pequeno,Zacapa,60
+485,Proveedor Sintetico 0485,Pequeno,Guatemala,15
+486,Proveedor Sintetico 0486,Mediano,Guatemala,30
+487,Proveedor Sintetico 0487,Corporativo,Guatemala,15
+488,Proveedor Sintetico 0488,Pequeno,Quetzaltenango,60
+489,Proveedor Sintetico 0489,Pequeno,Guatemala,45
+490,Proveedor Sintetico 0490,Mediano,Zacapa,45
+491,Proveedor Sintetico 0491,Pequeno,Zacapa,45
+492,Proveedor Sintetico 0492,Corporativo,Villa Nueva,30
+493,Proveedor Sintetico 0493,Mediano,Villa Nueva,60
+494,Proveedor Sintetico 0494,Pequeno,Quetzaltenango,15
+495,Proveedor Sintetico 0495,Mediano,Escuintla,60
+496,Proveedor Sintetico 0496,Mediano,Zacapa,15
+497,Proveedor Sintetico 0497,Mediano,Villa Nueva,45
+498,Proveedor Sintetico 0498,Mediano,Mixco,15
+499,Proveedor Sintetico 0499,Pequeno,Guatemala,30
+500,Proveedor Sintetico 0500,Mediano,Escuintla,60
+501,Proveedor Sintetico 0501,Mediano,Escuintla,30
+502,Proveedor Sintetico 0502,Pequeno,Quetzaltenango,60
+503,Proveedor Sintetico 0503,Corporativo,Quetzaltenango,45
+504,Proveedor Sintetico 0504,Corporativo,Escuintla,60
+505,Proveedor Sintetico 0505,Corporativo,Villa Nueva,30
+506,Proveedor Sintetico 0506,Pequeno,Zacapa,30
+507,Proveedor Sintetico 0507,Mediano,Guatemala,30
+508,Proveedor Sintetico 0508,Pequeno,Escuintla,60
+509,Proveedor Sintetico 0509,Mediano,Mixco,45
+510,Proveedor Sintetico 0510,Mediano,Quetzaltenango,60
+511,Proveedor Sintetico 0511,Mediano,Quetzaltenango,30
+512,Proveedor Sintetico 0512,Mediano,Guatemala,45
+513,Proveedor Sintetico 0513,Mediano,Quetzaltenango,60
+514,Proveedor Sintetico 0514,Pequeno,Zacapa,60
+515,Proveedor Sintetico 0515,Corporativo,Villa Nueva,45
+516,Proveedor Sintetico 0516,Corporativo,Mixco,15
+517,Proveedor Sintetico 0517,Mediano,Mixco,15
+518,Proveedor Sintetico 0518,Pequeno,Escuintla,30
+519,Proveedor Sintetico 0519,Mediano,Quetzaltenango,30
+520,Proveedor Sintetico 0520,Corporativo,Zacapa,60
+521,Proveedor Sintetico 0521,Pequeno,Guatemala,45
+522,Proveedor Sintetico 0522,Corporativo,Guatemala,45
+523,Proveedor Sintetico 0523,Pequeno,Quetzaltenango,60
+524,Proveedor Sintetico 0524,Pequeno,Guatemala,60
+525,Proveedor Sintetico 0525,Mediano,Guatemala,45
+526,Proveedor Sintetico 0526,Pequeno,Villa Nueva,15
+527,Proveedor Sintetico 0527,Mediano,Escuintla,60
+528,Proveedor Sintetico 0528,Pequeno,Quetzaltenango,60
+529,Proveedor Sintetico 0529,Mediano,Mixco,60
+530,Proveedor Sintetico 0530,Pequeno,Guatemala,30
+531,Proveedor Sintetico 0531,Pequeno,Zacapa,15
+532,Proveedor Sintetico 0532,Pequeno,Zacapa,45
+533,Proveedor Sintetico 0533,Mediano,Escuintla,15
+534,Proveedor Sintetico 0534,Pequeno,Mixco,60
+535,Proveedor Sintetico 0535,Mediano,Mixco,30
+536,Proveedor Sintetico 0536,Mediano,Villa Nueva,45
+537,Proveedor Sintetico 0537,Mediano,Zacapa,30
+538,Proveedor Sintetico 0538,Pequeno,Guatemala,30
+539,Proveedor Sintetico 0539,Mediano,Mixco,15
+540,Proveedor Sintetico 0540,Mediano,Villa Nueva,30
+541,Proveedor Sintetico 0541,Pequeno,Mixco,30
+542,Proveedor Sintetico 0542,Mediano,Zacapa,15
+543,Proveedor Sintetico 0543,Pequeno,Villa Nueva,30
+544,Proveedor Sintetico 0544,Pequeno,Zacapa,30
+545,Proveedor Sintetico 0545,Mediano,Mixco,15
+546,Proveedor Sintetico 0546,Corporativo,Escuintla,30
+547,Proveedor Sintetico 0547,Pequeno,Zacapa,45
+548,Proveedor Sintetico 0548,Corporativo,Quetzaltenango,30
+549,Proveedor Sintetico 0549,Pequeno,Escuintla,45
+550,Proveedor Sintetico 0550,Pequeno,Zacapa,15
+551,Proveedor Sintetico 0551,Pequeno,Villa Nueva,60
+552,Proveedor Sintetico 0552,Corporativo,Guatemala,60
+553,Proveedor Sintetico 0553,Pequeno,Mixco,45
+554,Proveedor Sintetico 0554,Pequeno,Zacapa,30
+555,Proveedor Sintetico 0555,Pequeno,Guatemala,30
+556,Proveedor Sintetico 0556,Corporativo,Zacapa,15
+557,Proveedor Sintetico 0557,Pequeno,Zacapa,45
+558,Proveedor Sintetico 0558,Mediano,Mixco,60
+559,Proveedor Sintetico 0559,Pequeno,Zacapa,15
+560,Proveedor Sintetico 0560,Pequeno,Escuintla,15
+561,Proveedor Sintetico 0561,Pequeno,Guatemala,30
+562,Proveedor Sintetico 0562,Corporativo,Zacapa,15
+563,Proveedor Sintetico 0563,Pequeno,Quetzaltenango,30
+564,Proveedor Sintetico 0564,Pequeno,Escuintla,30
+565,Proveedor Sintetico 0565,Pequeno,Quetzaltenango,60
+566,Proveedor Sintetico 0566,Corporativo,Escuintla,60
+567,Proveedor Sintetico 0567,Mediano,Quetzaltenango,15
+568,Proveedor Sintetico 0568,Pequeno,Mixco,15
+569,Proveedor Sintetico 0569,Pequeno,Zacapa,15
+570,Proveedor Sintetico 0570,Mediano,Quetzaltenango,15
+571,Proveedor Sintetico 0571,Pequeno,Villa Nueva,30
+572,Proveedor Sintetico 0572,Corporativo,Guatemala,30
+573,Proveedor Sintetico 0573,Mediano,Mixco,15
+574,Proveedor Sintetico 0574,Pequeno,Mixco,15
+575,Proveedor Sintetico 0575,Mediano,Mixco,45
+576,Proveedor Sintetico 0576,Mediano,Guatemala,60
+577,Proveedor Sintetico 0577,Pequeno,Mixco,15
+578,Proveedor Sintetico 0578,Mediano,Escuintla,30
+579,Proveedor Sintetico 0579,Mediano,Zacapa,60
+580,Proveedor Sintetico 0580,Mediano,Mixco,30
+581,Proveedor Sintetico 0581,Mediano,Quetzaltenango,15
+582,Proveedor Sintetico 0582,Pequeno,Quetzaltenango,45
+583,Proveedor Sintetico 0583,Pequeno,Zacapa,60
+584,Proveedor Sintetico 0584,Corporativo,Zacapa,45
+585,Proveedor Sintetico 0585,Pequeno,Escuintla,30
+586,Proveedor Sintetico 0586,Pequeno,Guatemala,45
+587,Proveedor Sintetico 0587,Pequeno,Quetzaltenango,15
+588,Proveedor Sintetico 0588,Pequeno,Zacapa,15
+589,Proveedor Sintetico 0589,Mediano,Quetzaltenango,15
+590,Proveedor Sintetico 0590,Mediano,Zacapa,60
+591,Proveedor Sintetico 0591,Pequeno,Escuintla,30
+592,Proveedor Sintetico 0592,Pequeno,Mixco,30
+593,Proveedor Sintetico 0593,Mediano,Mixco,15
+594,Proveedor Sintetico 0594,Pequeno,Zacapa,60
+595,Proveedor Sintetico 0595,Corporativo,Quetzaltenango,45
+596,Proveedor Sintetico 0596,Mediano,Mixco,45
+597,Proveedor Sintetico 0597,Pequeno,Villa Nueva,30
+598,Proveedor Sintetico 0598,Pequeno,Quetzaltenango,15
+599,Proveedor Sintetico 0599,Mediano,Zacapa,45
+600,Proveedor Sintetico 0600,Pequeno,Zacapa,15
+601,Proveedor Sintetico 0601,Pequeno,Mixco,45
+602,Proveedor Sintetico 0602,Pequeno,Escuintla,30
+603,Proveedor Sintetico 0603,Pequeno,Zacapa,45
+604,Proveedor Sintetico 0604,Corporativo,Escuintla,60
+605,Proveedor Sintetico 0605,Corporativo,Quetzaltenango,15
+606,Proveedor Sintetico 0606,Corporativo,Villa Nueva,15
+607,Proveedor Sintetico 0607,Pequeno,Quetzaltenango,45
+608,Proveedor Sintetico 0608,Pequeno,Villa Nueva,60
+609,Proveedor Sintetico 0609,Mediano,Mixco,45
+610,Proveedor Sintetico 0610,Mediano,Escuintla,60
+611,Proveedor Sintetico 0611,Pequeno,Mixco,60
+612,Proveedor Sintetico 0612,Pequeno,Zacapa,45
+613,Proveedor Sintetico 0613,Pequeno,Zacapa,60
+614,Proveedor Sintetico 0614,Pequeno,Mixco,45
+615,Proveedor Sintetico 0615,Pequeno,Guatemala,60
+616,Proveedor Sintetico 0616,Pequeno,Villa Nueva,45
+617,Proveedor Sintetico 0617,Corporativo,Escuintla,45
+618,Proveedor Sintetico 0618,Pequeno,Mixco,30
+619,Proveedor Sintetico 0619,Mediano,Guatemala,15
+620,Proveedor Sintetico 0620,Pequeno,Villa Nueva,60
+621,Proveedor Sintetico 0621,Mediano,Quetzaltenango,60
+622,Proveedor Sintetico 0622,Pequeno,Escuintla,15
+623,Proveedor Sintetico 0623,Pequeno,Mixco,45
+624,Proveedor Sintetico 0624,Pequeno,Guatemala,30
+625,Proveedor Sintetico 0625,Pequeno,Zacapa,60
+626,Proveedor Sintetico 0626,Pequeno,Zacapa,60
+627,Proveedor Sintetico 0627,Mediano,Villa Nueva,15
+628,Proveedor Sintetico 0628,Pequeno,Zacapa,30
+629,Proveedor Sintetico 0629,Pequeno,Zacapa,45
+630,Proveedor Sintetico 0630,Mediano,Mixco,15
+631,Proveedor Sintetico 0631,Pequeno,Guatemala,60
+632,Proveedor Sintetico 0632,Mediano,Quetzaltenango,30
+633,Proveedor Sintetico 0633,Mediano,Guatemala,60
+634,Proveedor Sintetico 0634,Mediano,Zacapa,30
+635,Proveedor Sintetico 0635,Pequeno,Villa Nueva,15
+636,Proveedor Sintetico 0636,Pequeno,Zacapa,30
+637,Proveedor Sintetico 0637,Mediano,Escuintla,30
+638,Proveedor Sintetico 0638,Mediano,Zacapa,15
+639,Proveedor Sintetico 0639,Mediano,Escuintla,15
+640,Proveedor Sintetico 0640,Pequeno,Villa Nueva,15
+641,Proveedor Sintetico 0641,Pequeno,Guatemala,30
+642,Proveedor Sintetico 0642,Pequeno,Villa Nueva,60
+643,Proveedor Sintetico 0643,Mediano,Guatemala,45
+644,Proveedor Sintetico 0644,Pequeno,Zacapa,15
+645,Proveedor Sintetico 0645,Corporativo,Zacapa,45
+646,Proveedor Sintetico 0646,Mediano,Zacapa,15
+647,Proveedor Sintetico 0647,Pequeno,Zacapa,15
+648,Proveedor Sintetico 0648,Pequeno,Guatemala,60
+649,Proveedor Sintetico 0649,Mediano,Escuintla,30
+650,Proveedor Sintetico 0650,Pequeno,Villa Nueva,30
+651,Proveedor Sintetico 0651,Pequeno,Villa Nueva,60
+652,Proveedor Sintetico 0652,Pequeno,Quetzaltenango,15
+653,Proveedor Sintetico 0653,Mediano,Quetzaltenango,30
+654,Proveedor Sintetico 0654,Pequeno,Escuintla,15
+655,Proveedor Sintetico 0655,Pequeno,Villa Nueva,60
+656,Proveedor Sintetico 0656,Mediano,Villa Nueva,45
+657,Proveedor Sintetico 0657,Mediano,Zacapa,30
+658,Proveedor Sintetico 0658,Pequeno,Villa Nueva,60
+659,Proveedor Sintetico 0659,Corporativo,Zacapa,45
+660,Proveedor Sintetico 0660,Pequeno,Guatemala,15
+661,Proveedor Sintetico 0661,Pequeno,Guatemala,15
+662,Proveedor Sintetico 0662,Pequeno,Guatemala,15
+663,Proveedor Sintetico 0663,Pequeno,Quetzaltenango,30
+664,Proveedor Sintetico 0664,Pequeno,Zacapa,30
+665,Proveedor Sintetico 0665,Corporativo,Zacapa,15
+666,Proveedor Sintetico 0666,Mediano,Guatemala,30
+667,Proveedor Sintetico 0667,Mediano,Escuintla,15
+668,Proveedor Sintetico 0668,Pequeno,Zacapa,60
+669,Proveedor Sintetico 0669,Corporativo,Villa Nueva,45
+670,Proveedor Sintetico 0670,Pequeno,Escuintla,45
+671,Proveedor Sintetico 0671,Mediano,Escuintla,30
+672,Proveedor Sintetico 0672,Mediano,Zacapa,60
+673,Proveedor Sintetico 0673,Pequeno,Mixco,45
+674,Proveedor Sintetico 0674,Pequeno,Zacapa,15
+675,Proveedor Sintetico 0675,Mediano,Escuintla,60
+676,Proveedor Sintetico 0676,Mediano,Zacapa,60
+677,Proveedor Sintetico 0677,Mediano,Guatemala,15
+678,Proveedor Sintetico 0678,Mediano,Guatemala,60
+679,Proveedor Sintetico 0679,Mediano,Quetzaltenango,60
+680,Proveedor Sintetico 0680,Corporativo,Zacapa,30
+681,Proveedor Sintetico 0681,Pequeno,Escuintla,30
+682,Proveedor Sintetico 0682,Mediano,Villa Nueva,45
+683,Proveedor Sintetico 0683,Mediano,Villa Nueva,60
+684,Proveedor Sintetico 0684,Mediano,Quetzaltenango,45
+685,Proveedor Sintetico 0685,Pequeno,Zacapa,30
+686,Proveedor Sintetico 0686,Mediano,Mixco,15
+687,Proveedor Sintetico 0687,Corporativo,Guatemala,30
+688,Proveedor Sintetico 0688,Mediano,Guatemala,30
+689,Proveedor Sintetico 0689,Mediano,Villa Nueva,45
+690,Proveedor Sintetico 0690,Pequeno,Zacapa,45
+691,Proveedor Sintetico 0691,Mediano,Mixco,60
+692,Proveedor Sintetico 0692,Pequeno,Escuintla,60
+693,Proveedor Sintetico 0693,Mediano,Quetzaltenango,15
+694,Proveedor Sintetico 0694,Corporativo,Villa Nueva,45
+695,Proveedor Sintetico 0695,Mediano,Quetzaltenango,60
+696,Proveedor Sintetico 0696,Pequeno,Zacapa,30
+697,Proveedor Sintetico 0697,Pequeno,Zacapa,15
+698,Proveedor Sintetico 0698,Pequeno,Mixco,30
+699,Proveedor Sintetico 0699,Corporativo,Quetzaltenango,45
+700,Proveedor Sintetico 0700,Pequeno,Zacapa,45
+701,Proveedor Sintetico 0701,Pequeno,Mixco,15
+702,Proveedor Sintetico 0702,Corporativo,Quetzaltenango,30
+703,Proveedor Sintetico 0703,Mediano,Guatemala,45
+704,Proveedor Sintetico 0704,Mediano,Villa Nueva,60
+705,Proveedor Sintetico 0705,Mediano,Mixco,60
+706,Proveedor Sintetico 0706,Pequeno,Villa Nueva,30
+707,Proveedor Sintetico 0707,Mediano,Villa Nueva,60
+708,Proveedor Sintetico 0708,Mediano,Mixco,60
+709,Proveedor Sintetico 0709,Mediano,Mixco,60
+710,Proveedor Sintetico 0710,Mediano,Guatemala,60
+711,Proveedor Sintetico 0711,Pequeno,Escuintla,15
+712,Proveedor Sintetico 0712,Pequeno,Guatemala,45
+713,Proveedor Sintetico 0713,Corporativo,Guatemala,30
+714,Proveedor Sintetico 0714,Pequeno,Escuintla,30
+715,Proveedor Sintetico 0715,Pequeno,Guatemala,60
+716,Proveedor Sintetico 0716,Mediano,Escuintla,30
+717,Proveedor Sintetico 0717,Pequeno,Quetzaltenango,15
+718,Proveedor Sintetico 0718,Mediano,Guatemala,30
+719,Proveedor Sintetico 0719,Pequeno,Guatemala,60
+720,Proveedor Sintetico 0720,Pequeno,Zacapa,45
+721,Proveedor Sintetico 0721,Pequeno,Mixco,60
+722,Proveedor Sintetico 0722,Pequeno,Zacapa,30
+723,Proveedor Sintetico 0723,Pequeno,Zacapa,45
+724,Proveedor Sintetico 0724,Mediano,Quetzaltenango,15
+725,Proveedor Sintetico 0725,Pequeno,Zacapa,45
+726,Proveedor Sintetico 0726,Mediano,Escuintla,15
+727,Proveedor Sintetico 0727,Pequeno,Guatemala,15
+728,Proveedor Sintetico 0728,Mediano,Zacapa,60
+729,Proveedor Sintetico 0729,Pequeno,Quetzaltenango,30
+730,Proveedor Sintetico 0730,Mediano,Villa Nueva,45
+731,Proveedor Sintetico 0731,Mediano,Mixco,45
+732,Proveedor Sintetico 0732,Pequeno,Zacapa,15
+733,Proveedor Sintetico 0733,Pequeno,Guatemala,15
+734,Proveedor Sintetico 0734,Mediano,Escuintla,30
+735,Proveedor Sintetico 0735,Mediano,Escuintla,60
+736,Proveedor Sintetico 0736,Pequeno,Villa Nueva,15
+737,Proveedor Sintetico 0737,Mediano,Guatemala,30
+738,Proveedor Sintetico 0738,Corporativo,Zacapa,45
+739,Proveedor Sintetico 0739,Corporativo,Guatemala,30
+740,Proveedor Sintetico 0740,Pequeno,Guatemala,15
+741,Proveedor Sintetico 0741,Mediano,Zacapa,45
+742,Proveedor Sintetico 0742,Mediano,Escuintla,60
+743,Proveedor Sintetico 0743,Mediano,Villa Nueva,45
+744,Proveedor Sintetico 0744,Mediano,Villa Nueva,45
+745,Proveedor Sintetico 0745,Pequeno,Zacapa,60
+746,Proveedor Sintetico 0746,Corporativo,Guatemala,45
+747,Proveedor Sintetico 0747,Mediano,Villa Nueva,15
+748,Proveedor Sintetico 0748,Pequeno,Villa Nueva,15
+749,Proveedor Sintetico 0749,Pequeno,Villa Nueva,60
+750,Proveedor Sintetico 0750,Mediano,Escuintla,15
+751,Proveedor Sintetico 0751,Mediano,Quetzaltenango,60
+752,Proveedor Sintetico 0752,Mediano,Quetzaltenango,30
+753,Proveedor Sintetico 0753,Pequeno,Villa Nueva,60
+754,Proveedor Sintetico 0754,Pequeno,Villa Nueva,60
+755,Proveedor Sintetico 0755,Pequeno,Guatemala,15
+756,Proveedor Sintetico 0756,Pequeno,Zacapa,30
+757,Proveedor Sintetico 0757,Pequeno,Quetzaltenango,60
+758,Proveedor Sintetico 0758,Mediano,Guatemala,45
+759,Proveedor Sintetico 0759,Pequeno,Villa Nueva,30
+760,Proveedor Sintetico 0760,Mediano,Zacapa,30
+761,Proveedor Sintetico 0761,Corporativo,Quetzaltenango,45
+762,Proveedor Sintetico 0762,Mediano,Villa Nueva,15
+763,Proveedor Sintetico 0763,Pequeno,Guatemala,30
+764,Proveedor Sintetico 0764,Pequeno,Villa Nueva,45
+765,Proveedor Sintetico 0765,Mediano,Escuintla,60
+766,Proveedor Sintetico 0766,Corporativo,Villa Nueva,45
+767,Proveedor Sintetico 0767,Mediano,Zacapa,60
+768,Proveedor Sintetico 0768,Mediano,Villa Nueva,30
+769,Proveedor Sintetico 0769,Corporativo,Mixco,15
+770,Proveedor Sintetico 0770,Corporativo,Quetzaltenango,30
+771,Proveedor Sintetico 0771,Mediano,Zacapa,30
+772,Proveedor Sintetico 0772,Pequeno,Quetzaltenango,15
+773,Proveedor Sintetico 0773,Pequeno,Escuintla,45
+774,Proveedor Sintetico 0774,Corporativo,Mixco,45
+775,Proveedor Sintetico 0775,Pequeno,Escuintla,60
+776,Proveedor Sintetico 0776,Pequeno,Zacapa,15
+777,Proveedor Sintetico 0777,Pequeno,Mixco,15
+778,Proveedor Sintetico 0778,Pequeno,Zacapa,15
+779,Proveedor Sintetico 0779,Mediano,Guatemala,15
+780,Proveedor Sintetico 0780,Corporativo,Escuintla,15
+781,Proveedor Sintetico 0781,Mediano,Guatemala,15
+782,Proveedor Sintetico 0782,Mediano,Zacapa,45
+783,Proveedor Sintetico 0783,Pequeno,Guatemala,15
+784,Proveedor Sintetico 0784,Mediano,Quetzaltenango,60
+785,Proveedor Sintetico 0785,Pequeno,Zacapa,30
+786,Proveedor Sintetico 0786,Pequeno,Zacapa,60
+787,Proveedor Sintetico 0787,Mediano,Quetzaltenango,15
+788,Proveedor Sintetico 0788,Pequeno,Villa Nueva,60
+789,Proveedor Sintetico 0789,Mediano,Zacapa,45
+790,Proveedor Sintetico 0790,Pequeno,Villa Nueva,45
+791,Proveedor Sintetico 0791,Pequeno,Villa Nueva,60
+792,Proveedor Sintetico 0792,Pequeno,Mixco,60
+793,Proveedor Sintetico 0793,Mediano,Guatemala,30
+794,Proveedor Sintetico 0794,Pequeno,Guatemala,45
+795,Proveedor Sintetico 0795,Pequeno,Escuintla,30
+796,Proveedor Sintetico 0796,Pequeno,Zacapa,15
+797,Proveedor Sintetico 0797,Pequeno,Zacapa,30
+798,Proveedor Sintetico 0798,Mediano,Mixco,60
+799,Proveedor Sintetico 0799,Mediano,Zacapa,15
+800,Proveedor Sintetico 0800,Pequeno,Guatemala,30
+801,Proveedor Sintetico 0801,Corporativo,Zacapa,60
+802,Proveedor Sintetico 0802,Pequeno,Mixco,45
+803,Proveedor Sintetico 0803,Mediano,Zacapa,30
+804,Proveedor Sintetico 0804,Mediano,Villa Nueva,45
+805,Proveedor Sintetico 0805,Corporativo,Quetzaltenango,60
+806,Proveedor Sintetico 0806,Mediano,Guatemala,15
+807,Proveedor Sintetico 0807,Pequeno,Villa Nueva,30
+808,Proveedor Sintetico 0808,Pequeno,Guatemala,30
+809,Proveedor Sintetico 0809,Mediano,Guatemala,60
+810,Proveedor Sintetico 0810,Pequeno,Quetzaltenango,45
+811,Proveedor Sintetico 0811,Mediano,Escuintla,30
+812,Proveedor Sintetico 0812,Pequeno,Mixco,15
+813,Proveedor Sintetico 0813,Mediano,Villa Nueva,45
+814,Proveedor Sintetico 0814,Pequeno,Escuintla,60
+815,Proveedor Sintetico 0815,Mediano,Guatemala,60
+816,Proveedor Sintetico 0816,Mediano,Villa Nueva,60
+817,Proveedor Sintetico 0817,Mediano,Mixco,15
+818,Proveedor Sintetico 0818,Mediano,Guatemala,15
+819,Proveedor Sintetico 0819,Pequeno,Guatemala,15
+820,Proveedor Sintetico 0820,Pequeno,Quetzaltenango,15
+821,Proveedor Sintetico 0821,Corporativo,Zacapa,45
+822,Proveedor Sintetico 0822,Mediano,Mixco,45
+823,Proveedor Sintetico 0823,Mediano,Escuintla,15
+824,Proveedor Sintetico 0824,Mediano,Guatemala,45
+825,Proveedor Sintetico 0825,Pequeno,Villa Nueva,15
+826,Proveedor Sintetico 0826,Corporativo,Mixco,60
+827,Proveedor Sintetico 0827,Mediano,Villa Nueva,45
+828,Proveedor Sintetico 0828,Pequeno,Escuintla,30
+829,Proveedor Sintetico 0829,Mediano,Mixco,45
+830,Proveedor Sintetico 0830,Pequeno,Escuintla,60
+831,Proveedor Sintetico 0831,Pequeno,Guatemala,30
+832,Proveedor Sintetico 0832,Pequeno,Escuintla,15
+833,Proveedor Sintetico 0833,Pequeno,Mixco,30
+834,Proveedor Sintetico 0834,Mediano,Guatemala,60
+835,Proveedor Sintetico 0835,Mediano,Guatemala,30
+836,Proveedor Sintetico 0836,Pequeno,Mixco,30
+837,Proveedor Sintetico 0837,Pequeno,Guatemala,30
+838,Proveedor Sintetico 0838,Mediano,Guatemala,45
+839,Proveedor Sintetico 0839,Pequeno,Mixco,15
+840,Proveedor Sintetico 0840,Mediano,Villa Nueva,30
+841,Proveedor Sintetico 0841,Mediano,Villa Nueva,45
+842,Proveedor Sintetico 0842,Pequeno,Quetzaltenango,45
+843,Proveedor Sintetico 0843,Mediano,Zacapa,15
+844,Proveedor Sintetico 0844,Mediano,Guatemala,60
+845,Proveedor Sintetico 0845,Mediano,Guatemala,60
+846,Proveedor Sintetico 0846,Corporativo,Mixco,30
+847,Proveedor Sintetico 0847,Pequeno,Mixco,15
+848,Proveedor Sintetico 0848,Corporativo,Villa Nueva,60
+849,Proveedor Sintetico 0849,Mediano,Escuintla,60
+850,Proveedor Sintetico 0850,Mediano,Escuintla,30
+851,Proveedor Sintetico 0851,Mediano,Zacapa,60
+852,Proveedor Sintetico 0852,Mediano,Quetzaltenango,30
+853,Proveedor Sintetico 0853,Corporativo,Escuintla,30
+854,Proveedor Sintetico 0854,Pequeno,Escuintla,45
+855,Proveedor Sintetico 0855,Pequeno,Quetzaltenango,45
+856,Proveedor Sintetico 0856,Mediano,Escuintla,30
+857,Proveedor Sintetico 0857,Mediano,Mixco,60
+858,Proveedor Sintetico 0858,Pequeno,Quetzaltenango,45
+859,Proveedor Sintetico 0859,Pequeno,Guatemala,30
+860,Proveedor Sintetico 0860,Mediano,Zacapa,45
+861,Proveedor Sintetico 0861,Mediano,Guatemala,30
+862,Proveedor Sintetico 0862,Pequeno,Mixco,60
+863,Proveedor Sintetico 0863,Mediano,Quetzaltenango,15
+864,Proveedor Sintetico 0864,Pequeno,Mixco,45
+865,Proveedor Sintetico 0865,Mediano,Quetzaltenango,60
+866,Proveedor Sintetico 0866,Pequeno,Villa Nueva,45
+867,Proveedor Sintetico 0867,Pequeno,Villa Nueva,30
+868,Proveedor Sintetico 0868,Mediano,Zacapa,30
+869,Proveedor Sintetico 0869,Pequeno,Mixco,15
+870,Proveedor Sintetico 0870,Pequeno,Quetzaltenango,45
+871,Proveedor Sintetico 0871,Mediano,Zacapa,30
+872,Proveedor Sintetico 0872,Pequeno,Quetzaltenango,45
+873,Proveedor Sintetico 0873,Pequeno,Escuintla,15
+874,Proveedor Sintetico 0874,Mediano,Escuintla,60
+875,Proveedor Sintetico 0875,Pequeno,Mixco,60
+876,Proveedor Sintetico 0876,Mediano,Guatemala,45
+877,Proveedor Sintetico 0877,Mediano,Escuintla,15
+878,Proveedor Sintetico 0878,Pequeno,Quetzaltenango,15
+879,Proveedor Sintetico 0879,Pequeno,Escuintla,15
+880,Proveedor Sintetico 0880,Pequeno,Guatemala,60
+881,Proveedor Sintetico 0881,Pequeno,Escuintla,60
+882,Proveedor Sintetico 0882,Mediano,Escuintla,60
+883,Proveedor Sintetico 0883,Pequeno,Quetzaltenango,15
+884,Proveedor Sintetico 0884,Mediano,Escuintla,45
+885,Proveedor Sintetico 0885,Pequeno,Mixco,60
+886,Proveedor Sintetico 0886,Mediano,Quetzaltenango,30
+887,Proveedor Sintetico 0887,Pequeno,Quetzaltenango,45
+888,Proveedor Sintetico 0888,Corporativo,Quetzaltenango,15
+889,Proveedor Sintetico 0889,Mediano,Quetzaltenango,60
+890,Proveedor Sintetico 0890,Mediano,Villa Nueva,60
+891,Proveedor Sintetico 0891,Pequeno,Zacapa,60
+892,Proveedor Sintetico 0892,Pequeno,Zacapa,15
+893,Proveedor Sintetico 0893,Pequeno,Villa Nueva,15
+894,Proveedor Sintetico 0894,Corporativo,Guatemala,45
+895,Proveedor Sintetico 0895,Corporativo,Villa Nueva,45
+896,Proveedor Sintetico 0896,Pequeno,Villa Nueva,15
+897,Proveedor Sintetico 0897,Pequeno,Mixco,60
+898,Proveedor Sintetico 0898,Mediano,Zacapa,45
+899,Proveedor Sintetico 0899,Mediano,Quetzaltenango,15
+900,Proveedor Sintetico 0900,Mediano,Quetzaltenango,15
+901,Proveedor Sintetico 0901,Mediano,Quetzaltenango,30
+902,Proveedor Sintetico 0902,Pequeno,Villa Nueva,15
+903,Proveedor Sintetico 0903,Pequeno,Mixco,45
+904,Proveedor Sintetico 0904,Mediano,Villa Nueva,15
+905,Proveedor Sintetico 0905,Pequeno,Mixco,15
+906,Proveedor Sintetico 0906,Pequeno,Villa Nueva,30
+907,Proveedor Sintetico 0907,Corporativo,Zacapa,30
+908,Proveedor Sintetico 0908,Pequeno,Escuintla,60
+909,Proveedor Sintetico 0909,Pequeno,Quetzaltenango,45
+910,Proveedor Sintetico 0910,Mediano,Quetzaltenango,60
+911,Proveedor Sintetico 0911,Mediano,Villa Nueva,30
+912,Proveedor Sintetico 0912,Corporativo,Mixco,30
+913,Proveedor Sintetico 0913,Pequeno,Quetzaltenango,45
+914,Proveedor Sintetico 0914,Mediano,Zacapa,60
+915,Proveedor Sintetico 0915,Mediano,Guatemala,60
+916,Proveedor Sintetico 0916,Mediano,Villa Nueva,45
+917,Proveedor Sintetico 0917,Corporativo,Guatemala,60
+918,Proveedor Sintetico 0918,Corporativo,Mixco,45
+919,Proveedor Sintetico 0919,Mediano,Zacapa,45
+920,Proveedor Sintetico 0920,Pequeno,Mixco,30
+921,Proveedor Sintetico 0921,Mediano,Escuintla,30
+922,Proveedor Sintetico 0922,Corporativo,Escuintla,30
+923,Proveedor Sintetico 0923,Pequeno,Villa Nueva,30
+924,Proveedor Sintetico 0924,Corporativo,Quetzaltenango,45
+925,Proveedor Sintetico 0925,Mediano,Zacapa,60
+926,Proveedor Sintetico 0926,Pequeno,Mixco,45
+927,Proveedor Sintetico 0927,Pequeno,Mixco,30
+928,Proveedor Sintetico 0928,Pequeno,Mixco,45
+929,Proveedor Sintetico 0929,Pequeno,Villa Nueva,45
+930,Proveedor Sintetico 0930,Pequeno,Villa Nueva,15
+931,Proveedor Sintetico 0931,Pequeno,Quetzaltenango,15
+932,Proveedor Sintetico 0932,Pequeno,Mixco,45
+933,Proveedor Sintetico 0933,Pequeno,Quetzaltenango,45
+934,Proveedor Sintetico 0934,Pequeno,Mixco,30
+935,Proveedor Sintetico 0935,Pequeno,Mixco,60
+936,Proveedor Sintetico 0936,Pequeno,Mixco,45
+937,Proveedor Sintetico 0937,Mediano,Zacapa,30
+938,Proveedor Sintetico 0938,Pequeno,Guatemala,15
+939,Proveedor Sintetico 0939,Pequeno,Escuintla,45
+940,Proveedor Sintetico 0940,Mediano,Guatemala,45
+941,Proveedor Sintetico 0941,Mediano,Guatemala,60
+942,Proveedor Sintetico 0942,Pequeno,Escuintla,60
+943,Proveedor Sintetico 0943,Mediano,Guatemala,30
+944,Proveedor Sintetico 0944,Pequeno,Escuintla,15
+945,Proveedor Sintetico 0945,Mediano,Mixco,45
+946,Proveedor Sintetico 0946,Corporativo,Escuintla,15
+947,Proveedor Sintetico 0947,Corporativo,Zacapa,15
+948,Proveedor Sintetico 0948,Mediano,Quetzaltenango,60
+949,Proveedor Sintetico 0949,Pequeno,Villa Nueva,60
+950,Proveedor Sintetico 0950,Pequeno,Escuintla,15
+951,Proveedor Sintetico 0951,Pequeno,Mixco,30
+952,Proveedor Sintetico 0952,Corporativo,Mixco,45
+953,Proveedor Sintetico 0953,Mediano,Quetzaltenango,15
+954,Proveedor Sintetico 0954,Pequeno,Zacapa,15
+955,Proveedor Sintetico 0955,Mediano,Zacapa,15
+956,Proveedor Sintetico 0956,Mediano,Escuintla,45
+957,Proveedor Sintetico 0957,Pequeno,Quetzaltenango,60
+958,Proveedor Sintetico 0958,Mediano,Zacapa,45
+959,Proveedor Sintetico 0959,Pequeno,Guatemala,30
+960,Proveedor Sintetico 0960,Mediano,Escuintla,45
+961,Proveedor Sintetico 0961,Pequeno,Guatemala,60
+962,Proveedor Sintetico 0962,Pequeno,Mixco,30
+963,Proveedor Sintetico 0963,Pequeno,Villa Nueva,30
+964,Proveedor Sintetico 0964,Pequeno,Villa Nueva,45
+965,Proveedor Sintetico 0965,Mediano,Villa Nueva,60
+966,Proveedor Sintetico 0966,Pequeno,Guatemala,45
+967,Proveedor Sintetico 0967,Pequeno,Escuintla,15
+968,Proveedor Sintetico 0968,Pequeno,Zacapa,60
+969,Proveedor Sintetico 0969,Pequeno,Guatemala,30
+970,Proveedor Sintetico 0970,Pequeno,Zacapa,45
+971,Proveedor Sintetico 0971,Pequeno,Guatemala,45
+972,Proveedor Sintetico 0972,Pequeno,Villa Nueva,15
+973,Proveedor Sintetico 0973,Pequeno,Villa Nueva,45
+974,Proveedor Sintetico 0974,Pequeno,Escuintla,30
+975,Proveedor Sintetico 0975,Mediano,Escuintla,30
+976,Proveedor Sintetico 0976,Pequeno,Villa Nueva,30
+977,Proveedor Sintetico 0977,Mediano,Villa Nueva,15
+978,Proveedor Sintetico 0978,Pequeno,Villa Nueva,30
+979,Proveedor Sintetico 0979,Pequeno,Escuintla,60
+980,Proveedor Sintetico 0980,Pequeno,Mixco,30
+981,Proveedor Sintetico 0981,Corporativo,Mixco,15
+982,Proveedor Sintetico 0982,Pequeno,Quetzaltenango,15
+983,Proveedor Sintetico 0983,Pequeno,Mixco,15
+984,Proveedor Sintetico 0984,Pequeno,Zacapa,30
+985,Proveedor Sintetico 0985,Mediano,Villa Nueva,15
+986,Proveedor Sintetico 0986,Pequeno,Quetzaltenango,45
+987,Proveedor Sintetico 0987,Mediano,Guatemala,45
+988,Proveedor Sintetico 0988,Corporativo,Quetzaltenango,15
+989,Proveedor Sintetico 0989,Pequeno,Guatemala,15
+990,Proveedor Sintetico 0990,Mediano,Zacapa,45
+991,Proveedor Sintetico 0991,Pequeno,Escuintla,45
+992,Proveedor Sintetico 0992,Corporativo,Quetzaltenango,45
+993,Proveedor Sintetico 0993,Pequeno,Quetzaltenango,45
+994,Proveedor Sintetico 0994,Pequeno,Villa Nueva,15
+995,Proveedor Sintetico 0995,Mediano,Escuintla,60
+996,Proveedor Sintetico 0996,Mediano,Quetzaltenango,30
+997,Proveedor Sintetico 0997,Pequeno,Escuintla,30
+998,Proveedor Sintetico 0998,Pequeno,Villa Nueva,15
+999,Proveedor Sintetico 0999,Mediano,Villa Nueva,30
+1000,Proveedor Sintetico 1000,Mediano,Guatemala,45
+1001,Proveedor Sintetico 1001,Pequeno,Quetzaltenango,45
+1002,Proveedor Sintetico 1002,Pequeno,Villa Nueva,30
+1003,Proveedor Sintetico 1003,Mediano,Quetzaltenango,60
+1004,Proveedor Sintetico 1004,Pequeno,Escuintla,15
+1005,Proveedor Sintetico 1005,Pequeno,Villa Nueva,30
+1006,Proveedor Sintetico 1006,Pequeno,Escuintla,30
+1007,Proveedor Sintetico 1007,Mediano,Escuintla,45
+1008,Proveedor Sintetico 1008,Corporativo,Zacapa,15
+1009,Proveedor Sintetico 1009,Mediano,Escuintla,45
+1010,Proveedor Sintetico 1010,Pequeno,Mixco,15
+1011,Proveedor Sintetico 1011,Pequeno,Zacapa,30
+1012,Proveedor Sintetico 1012,Mediano,Quetzaltenango,30
+1013,Proveedor Sintetico 1013,Pequeno,Zacapa,30
+1014,Proveedor Sintetico 1014,Mediano,Escuintla,15
+1015,Proveedor Sintetico 1015,Corporativo,Quetzaltenango,45
+1016,Proveedor Sintetico 1016,Mediano,Guatemala,30
+1017,Proveedor Sintetico 1017,Pequeno,Villa Nueva,60
+1018,Proveedor Sintetico 1018,Pequeno,Escuintla,15
+1019,Proveedor Sintetico 1019,Pequeno,Guatemala,60
+1020,Proveedor Sintetico 1020,Mediano,Escuintla,60
+1021,Proveedor Sintetico 1021,Corporativo,Zacapa,15
+1022,Proveedor Sintetico 1022,Pequeno,Villa Nueva,60
+1023,Proveedor Sintetico 1023,Mediano,Villa Nueva,30
+1024,Proveedor Sintetico 1024,Pequeno,Zacapa,45
+1025,Proveedor Sintetico 1025,Mediano,Villa Nueva,30
+1026,Proveedor Sintetico 1026,Pequeno,Escuintla,30
+1027,Proveedor Sintetico 1027,Corporativo,Quetzaltenango,30
+1028,Proveedor Sintetico 1028,Pequeno,Guatemala,60
+1029,Proveedor Sintetico 1029,Mediano,Mixco,45
+1030,Proveedor Sintetico 1030,Pequeno,Quetzaltenango,45
+1031,Proveedor Sintetico 1031,Pequeno,Villa Nueva,30
+1032,Proveedor Sintetico 1032,Mediano,Villa Nueva,60
+1033,Proveedor Sintetico 1033,Mediano,Villa Nueva,15
+1034,Proveedor Sintetico 1034,Corporativo,Mixco,15
+1035,Proveedor Sintetico 1035,Pequeno,Villa Nueva,30
+1036,Proveedor Sintetico 1036,Mediano,Escuintla,30
+1037,Proveedor Sintetico 1037,Mediano,Escuintla,60
+1038,Proveedor Sintetico 1038,Pequeno,Mixco,15
+1039,Proveedor Sintetico 1039,Pequeno,Mixco,30
+1040,Proveedor Sintetico 1040,Pequeno,Zacapa,15
+1041,Proveedor Sintetico 1041,Corporativo,Quetzaltenango,60
+1042,Proveedor Sintetico 1042,Pequeno,Escuintla,30
+1043,Proveedor Sintetico 1043,Mediano,Quetzaltenango,30
+1044,Proveedor Sintetico 1044,Pequeno,Guatemala,30
+1045,Proveedor Sintetico 1045,Mediano,Villa Nueva,60
+1046,Proveedor Sintetico 1046,Pequeno,Zacapa,60
+1047,Proveedor Sintetico 1047,Pequeno,Mixco,30
+1048,Proveedor Sintetico 1048,Pequeno,Quetzaltenango,30
+1049,Proveedor Sintetico 1049,Pequeno,Escuintla,30
+1050,Proveedor Sintetico 1050,Mediano,Guatemala,45
+1051,Proveedor Sintetico 1051,Pequeno,Guatemala,45
+1052,Proveedor Sintetico 1052,Pequeno,Guatemala,15
+1053,Proveedor Sintetico 1053,Pequeno,Zacapa,15
+1054,Proveedor Sintetico 1054,Mediano,Villa Nueva,45
+1055,Proveedor Sintetico 1055,Mediano,Villa Nueva,60
+1056,Proveedor Sintetico 1056,Pequeno,Mixco,15
+1057,Proveedor Sintetico 1057,Mediano,Villa Nueva,60
+1058,Proveedor Sintetico 1058,Pequeno,Zacapa,45
+1059,Proveedor Sintetico 1059,Pequeno,Mixco,60
+1060,Proveedor Sintetico 1060,Pequeno,Escuintla,15
+1061,Proveedor Sintetico 1061,Pequeno,Zacapa,15
+1062,Proveedor Sintetico 1062,Pequeno,Quetzaltenango,30
+1063,Proveedor Sintetico 1063,Mediano,Mixco,60
+1064,Proveedor Sintetico 1064,Pequeno,Zacapa,45
+1065,Proveedor Sintetico 1065,Mediano,Villa Nueva,15
+1066,Proveedor Sintetico 1066,Mediano,Villa Nueva,30
+1067,Proveedor Sintetico 1067,Pequeno,Villa Nueva,30
+1068,Proveedor Sintetico 1068,Mediano,Zacapa,45
+1069,Proveedor Sintetico 1069,Mediano,Quetzaltenango,30
+1070,Proveedor Sintetico 1070,Pequeno,Quetzaltenango,30
+1071,Proveedor Sintetico 1071,Pequeno,Villa Nueva,15
+1072,Proveedor Sintetico 1072,Pequeno,Quetzaltenango,30
+1073,Proveedor Sintetico 1073,Pequeno,Quetzaltenango,60
+1074,Proveedor Sintetico 1074,Corporativo,Mixco,15
+1075,Proveedor Sintetico 1075,Corporativo,Escuintla,15
+1076,Proveedor Sintetico 1076,Pequeno,Zacapa,60
+1077,Proveedor Sintetico 1077,Mediano,Zacapa,15
+1078,Proveedor Sintetico 1078,Pequeno,Guatemala,60
+1079,Proveedor Sintetico 1079,Mediano,Quetzaltenango,15
+1080,Proveedor Sintetico 1080,Corporativo,Villa Nueva,45
+1081,Proveedor Sintetico 1081,Pequeno,Zacapa,15
+1082,Proveedor Sintetico 1082,Mediano,Villa Nueva,60
+1083,Proveedor Sintetico 1083,Mediano,Villa Nueva,30
+1084,Proveedor Sintetico 1084,Pequeno,Guatemala,15
+1085,Proveedor Sintetico 1085,Pequeno,Escuintla,60
+1086,Proveedor Sintetico 1086,Mediano,Villa Nueva,60
+1087,Proveedor Sintetico 1087,Mediano,Zacapa,60
+1088,Proveedor Sintetico 1088,Pequeno,Guatemala,30
+1089,Proveedor Sintetico 1089,Mediano,Mixco,15
+1090,Proveedor Sintetico 1090,Pequeno,Mixco,60
+1091,Proveedor Sintetico 1091,Mediano,Escuintla,60
+1092,Proveedor Sintetico 1092,Mediano,Guatemala,45
+1093,Proveedor Sintetico 1093,Corporativo,Guatemala,60
+1094,Proveedor Sintetico 1094,Mediano,Guatemala,45
+1095,Proveedor Sintetico 1095,Corporativo,Mixco,45
+1096,Proveedor Sintetico 1096,Mediano,Quetzaltenango,15
+1097,Proveedor Sintetico 1097,Mediano,Zacapa,30
+1098,Proveedor Sintetico 1098,Pequeno,Quetzaltenango,30
+1099,Proveedor Sintetico 1099,Corporativo,Quetzaltenango,15
+1100,Proveedor Sintetico 1100,Pequeno,Guatemala,60
+1101,Proveedor Sintetico 1101,Pequeno,Mixco,60
+1102,Proveedor Sintetico 1102,Pequeno,Guatemala,60
+1103,Proveedor Sintetico 1103,Pequeno,Villa Nueva,15
+1104,Proveedor Sintetico 1104,Pequeno,Quetzaltenango,15
+1105,Proveedor Sintetico 1105,Mediano,Escuintla,60
+1106,Proveedor Sintetico 1106,Pequeno,Guatemala,60
+1107,Proveedor Sintetico 1107,Mediano,Guatemala,15
+1108,Proveedor Sintetico 1108,Corporativo,Villa Nueva,30
+1109,Proveedor Sintetico 1109,Mediano,Villa Nueva,30
+1110,Proveedor Sintetico 1110,Pequeno,Guatemala,30
+1111,Proveedor Sintetico 1111,Pequeno,Villa Nueva,45
+1112,Proveedor Sintetico 1112,Pequeno,Zacapa,45
+1113,Proveedor Sintetico 1113,Mediano,Zacapa,15
+1114,Proveedor Sintetico 1114,Pequeno,Quetzaltenango,45
+1115,Proveedor Sintetico 1115,Mediano,Villa Nueva,60
+1116,Proveedor Sintetico 1116,Corporativo,Guatemala,60
+1117,Proveedor Sintetico 1117,Pequeno,Mixco,30
+1118,Proveedor Sintetico 1118,Mediano,Mixco,45
+1119,Proveedor Sintetico 1119,Corporativo,Mixco,45
+1120,Proveedor Sintetico 1120,Corporativo,Guatemala,30
+1121,Proveedor Sintetico 1121,Pequeno,Guatemala,60
+1122,Proveedor Sintetico 1122,Pequeno,Mixco,15
+1123,Proveedor Sintetico 1123,Mediano,Escuintla,45
+1124,Proveedor Sintetico 1124,Pequeno,Zacapa,30
+1125,Proveedor Sintetico 1125,Pequeno,Escuintla,45
+1126,Proveedor Sintetico 1126,Corporativo,Villa Nueva,60
+1127,Proveedor Sintetico 1127,Pequeno,Guatemala,30
+1128,Proveedor Sintetico 1128,Pequeno,Mixco,15
+1129,Proveedor Sintetico 1129,Mediano,Quetzaltenango,45
+1130,Proveedor Sintetico 1130,Pequeno,Mixco,30
+1131,Proveedor Sintetico 1131,Corporativo,Mixco,30
+1132,Proveedor Sintetico 1132,Corporativo,Quetzaltenango,45
+1133,Proveedor Sintetico 1133,Corporativo,Guatemala,30
+1134,Proveedor Sintetico 1134,Pequeno,Zacapa,60
+1135,Proveedor Sintetico 1135,Mediano,Zacapa,15
+1136,Proveedor Sintetico 1136,Mediano,Zacapa,30
+1137,Proveedor Sintetico 1137,Mediano,Guatemala,15
+1138,Proveedor Sintetico 1138,Pequeno,Mixco,15
+1139,Proveedor Sintetico 1139,Pequeno,Villa Nueva,30
+1140,Proveedor Sintetico 1140,Corporativo,Zacapa,60
+1141,Proveedor Sintetico 1141,Corporativo,Quetzaltenango,15
+1142,Proveedor Sintetico 1142,Mediano,Quetzaltenango,30
+1143,Proveedor Sintetico 1143,Pequeno,Zacapa,15
+1144,Proveedor Sintetico 1144,Pequeno,Guatemala,15
+1145,Proveedor Sintetico 1145,Mediano,Guatemala,45
+1146,Proveedor Sintetico 1146,Corporativo,Zacapa,45
+1147,Proveedor Sintetico 1147,Pequeno,Quetzaltenango,15
+1148,Proveedor Sintetico 1148,Pequeno,Villa Nueva,45
+1149,Proveedor Sintetico 1149,Mediano,Zacapa,30
+1150,Proveedor Sintetico 1150,Mediano,Quetzaltenango,60
+1151,Proveedor Sintetico 1151,Mediano,Guatemala,45
+1152,Proveedor Sintetico 1152,Pequeno,Villa Nueva,15
+1153,Proveedor Sintetico 1153,Pequeno,Mixco,60
+1154,Proveedor Sintetico 1154,Corporativo,Guatemala,45
+1155,Proveedor Sintetico 1155,Corporativo,Zacapa,15
+1156,Proveedor Sintetico 1156,Mediano,Guatemala,15
+1157,Proveedor Sintetico 1157,Corporativo,Guatemala,60
+1158,Proveedor Sintetico 1158,Pequeno,Zacapa,45
+1159,Proveedor Sintetico 1159,Pequeno,Mixco,15
+1160,Proveedor Sintetico 1160,Pequeno,Guatemala,30
+1161,Proveedor Sintetico 1161,Pequeno,Quetzaltenango,60
+1162,Proveedor Sintetico 1162,Mediano,Guatemala,60
+1163,Proveedor Sintetico 1163,Mediano,Guatemala,60
+1164,Proveedor Sintetico 1164,Pequeno,Guatemala,45
+1165,Proveedor Sintetico 1165,Pequeno,Zacapa,30
+1166,Proveedor Sintetico 1166,Mediano,Mixco,15
+1167,Proveedor Sintetico 1167,Pequeno,Zacapa,45
+1168,Proveedor Sintetico 1168,Mediano,Zacapa,30
+1169,Proveedor Sintetico 1169,Mediano,Escuintla,30
+1170,Proveedor Sintetico 1170,Mediano,Escuintla,60
+1171,Proveedor Sintetico 1171,Corporativo,Villa Nueva,15
+1172,Proveedor Sintetico 1172,Mediano,Guatemala,30
+1173,Proveedor Sintetico 1173,Mediano,Zacapa,45
+1174,Proveedor Sintetico 1174,Pequeno,Guatemala,30
+1175,Proveedor Sintetico 1175,Corporativo,Escuintla,15
+1176,Proveedor Sintetico 1176,Mediano,Guatemala,15
+1177,Proveedor Sintetico 1177,Pequeno,Guatemala,15
+1178,Proveedor Sintetico 1178,Mediano,Quetzaltenango,15
+1179,Proveedor Sintetico 1179,Pequeno,Quetzaltenango,45
+1180,Proveedor Sintetico 1180,Pequeno,Zacapa,45
+1181,Proveedor Sintetico 1181,Pequeno,Escuintla,60
+1182,Proveedor Sintetico 1182,Pequeno,Quetzaltenango,15
+1183,Proveedor Sintetico 1183,Mediano,Villa Nueva,15
+1184,Proveedor Sintetico 1184,Mediano,Mixco,15
+1185,Proveedor Sintetico 1185,Mediano,Escuintla,45
+1186,Proveedor Sintetico 1186,Mediano,Quetzaltenango,15
+1187,Proveedor Sintetico 1187,Pequeno,Quetzaltenango,30
+1188,Proveedor Sintetico 1188,Pequeno,Quetzaltenango,15
+1189,Proveedor Sintetico 1189,Pequeno,Villa Nueva,30
+1190,Proveedor Sintetico 1190,Mediano,Escuintla,45
+1191,Proveedor Sintetico 1191,Pequeno,Mixco,30
+1192,Proveedor Sintetico 1192,Corporativo,Zacapa,30
+1193,Proveedor Sintetico 1193,Mediano,Escuintla,45
+1194,Proveedor Sintetico 1194,Corporativo,Guatemala,15
+1195,Proveedor Sintetico 1195,Mediano,Guatemala,60
+1196,Proveedor Sintetico 1196,Pequeno,Escuintla,30
+1197,Proveedor Sintetico 1197,Corporativo,Villa Nueva,15
+1198,Proveedor Sintetico 1198,Pequeno,Guatemala,15
+1199,Proveedor Sintetico 1199,Pequeno,Escuintla,15
+1200,Proveedor Sintetico 1200,Mediano,Guatemala,45
+1201,Proveedor Sintetico 1201,Mediano,Zacapa,60
+1202,Proveedor Sintetico 1202,Mediano,Quetzaltenango,15
+1203,Proveedor Sintetico 1203,Mediano,Mixco,30
+1204,Proveedor Sintetico 1204,Mediano,Quetzaltenango,45
+1205,Proveedor Sintetico 1205,Mediano,Guatemala,60
+1206,Proveedor Sintetico 1206,Pequeno,Escuintla,15
+1207,Proveedor Sintetico 1207,Mediano,Zacapa,15
+1208,Proveedor Sintetico 1208,Mediano,Quetzaltenango,30
+1209,Proveedor Sintetico 1209,Mediano,Quetzaltenango,15
+1210,Proveedor Sintetico 1210,Mediano,Quetzaltenango,30
+1211,Proveedor Sintetico 1211,Mediano,Escuintla,45
+1212,Proveedor Sintetico 1212,Corporativo,Quetzaltenango,15
+1213,Proveedor Sintetico 1213,Mediano,Guatemala,45
+1214,Proveedor Sintetico 1214,Mediano,Zacapa,15
+1215,Proveedor Sintetico 1215,Corporativo,Villa Nueva,15
+1216,Proveedor Sintetico 1216,Pequeno,Guatemala,30
+1217,Proveedor Sintetico 1217,Pequeno,Mixco,15
+1218,Proveedor Sintetico 1218,Pequeno,Villa Nueva,45
+1219,Proveedor Sintetico 1219,Pequeno,Zacapa,45
+1220,Proveedor Sintetico 1220,Corporativo,Quetzaltenango,15
+1221,Proveedor Sintetico 1221,Pequeno,Quetzaltenango,30
+1222,Proveedor Sintetico 1222,Pequeno,Escuintla,15
+1223,Proveedor Sintetico 1223,Pequeno,Escuintla,30
+1224,Proveedor Sintetico 1224,Mediano,Mixco,60
+1225,Proveedor Sintetico 1225,Pequeno,Quetzaltenango,60
+1226,Proveedor Sintetico 1226,Mediano,Mixco,45
+1227,Proveedor Sintetico 1227,Mediano,Quetzaltenango,15
+1228,Proveedor Sintetico 1228,Pequeno,Quetzaltenango,45
+1229,Proveedor Sintetico 1229,Pequeno,Mixco,45
+1230,Proveedor Sintetico 1230,Mediano,Escuintla,30
+1231,Proveedor Sintetico 1231,Pequeno,Guatemala,60
+1232,Proveedor Sintetico 1232,Corporativo,Guatemala,60
+1233,Proveedor Sintetico 1233,Mediano,Zacapa,30
+1234,Proveedor Sintetico 1234,Mediano,Mixco,30
+1235,Proveedor Sintetico 1235,Pequeno,Quetzaltenango,60
+1236,Proveedor Sintetico 1236,Corporativo,Zacapa,30
+1237,Proveedor Sintetico 1237,Pequeno,Escuintla,60
+1238,Proveedor Sintetico 1238,Mediano,Escuintla,15
+1239,Proveedor Sintetico 1239,Pequeno,Zacapa,15
+1240,Proveedor Sintetico 1240,Pequeno,Quetzaltenango,45
+1241,Proveedor Sintetico 1241,Mediano,Escuintla,30
+1242,Proveedor Sintetico 1242,Pequeno,Zacapa,15
+1243,Proveedor Sintetico 1243,Mediano,Mixco,15
+1244,Proveedor Sintetico 1244,Pequeno,Mixco,15
+1245,Proveedor Sintetico 1245,Mediano,Guatemala,15
+1246,Proveedor Sintetico 1246,Mediano,Zacapa,15
+1247,Proveedor Sintetico 1247,Pequeno,Mixco,30
+1248,Proveedor Sintetico 1248,Pequeno,Villa Nueva,15
+1249,Proveedor Sintetico 1249,Mediano,Escuintla,30
+1250,Proveedor Sintetico 1250,Mediano,Guatemala,60
+1251,Proveedor Sintetico 1251,Pequeno,Guatemala,45
+1252,Proveedor Sintetico 1252,Corporativo,Escuintla,45
+1253,Proveedor Sintetico 1253,Mediano,Mixco,15
+1254,Proveedor Sintetico 1254,Mediano,Guatemala,60
+1255,Proveedor Sintetico 1255,Pequeno,Guatemala,60
+1256,Proveedor Sintetico 1256,Pequeno,Guatemala,15
+1257,Proveedor Sintetico 1257,Mediano,Villa Nueva,15
+1258,Proveedor Sintetico 1258,Corporativo,Mixco,30
+1259,Proveedor Sintetico 1259,Pequeno,Mixco,45
+1260,Proveedor Sintetico 1260,Pequeno,Zacapa,15
+1261,Proveedor Sintetico 1261,Corporativo,Zacapa,60
+1262,Proveedor Sintetico 1262,Pequeno,Villa Nueva,45
+1263,Proveedor Sintetico 1263,Mediano,Zacapa,45
+1264,Proveedor Sintetico 1264,Mediano,Zacapa,45
+1265,Proveedor Sintetico 1265,Pequeno,Guatemala,60
+1266,Proveedor Sintetico 1266,Mediano,Guatemala,15
+1267,Proveedor Sintetico 1267,Mediano,Quetzaltenango,30
+1268,Proveedor Sintetico 1268,Mediano,Escuintla,30
+1269,Proveedor Sintetico 1269,Pequeno,Guatemala,15
+1270,Proveedor Sintetico 1270,Corporativo,Escuintla,60
+1271,Proveedor Sintetico 1271,Pequeno,Zacapa,30
+1272,Proveedor Sintetico 1272,Pequeno,Guatemala,45
+1273,Proveedor Sintetico 1273,Mediano,Quetzaltenango,30
+1274,Proveedor Sintetico 1274,Pequeno,Escuintla,30
+1275,Proveedor Sintetico 1275,Mediano,Quetzaltenango,15
+1276,Proveedor Sintetico 1276,Mediano,Guatemala,30
+1277,Proveedor Sintetico 1277,Pequeno,Zacapa,15
+1278,Proveedor Sintetico 1278,Corporativo,Guatemala,15
+1279,Proveedor Sintetico 1279,Pequeno,Escuintla,60
+1280,Proveedor Sintetico 1280,Pequeno,Zacapa,45
+1281,Proveedor Sintetico 1281,Mediano,Mixco,30
+1282,Proveedor Sintetico 1282,Pequeno,Quetzaltenango,45
+1283,Proveedor Sintetico 1283,Mediano,Villa Nueva,60
+1284,Proveedor Sintetico 1284,Pequeno,Mixco,30
+1285,Proveedor Sintetico 1285,Pequeno,Guatemala,15
+1286,Proveedor Sintetico 1286,Pequeno,Zacapa,45
+1287,Proveedor Sintetico 1287,Pequeno,Escuintla,45
+1288,Proveedor Sintetico 1288,Pequeno,Escuintla,60
+1289,Proveedor Sintetico 1289,Pequeno,Quetzaltenango,30
+1290,Proveedor Sintetico 1290,Mediano,Villa Nueva,15
+1291,Proveedor Sintetico 1291,Mediano,Mixco,30
+1292,Proveedor Sintetico 1292,Mediano,Zacapa,45
+1293,Proveedor Sintetico 1293,Pequeno,Quetzaltenango,60
+1294,Proveedor Sintetico 1294,Pequeno,Guatemala,30
+1295,Proveedor Sintetico 1295,Pequeno,Zacapa,30
+1296,Proveedor Sintetico 1296,Pequeno,Villa Nueva,60
+1297,Proveedor Sintetico 1297,Pequeno,Quetzaltenango,30
+1298,Proveedor Sintetico 1298,Mediano,Guatemala,30
+1299,Proveedor Sintetico 1299,Mediano,Mixco,60
+1300,Proveedor Sintetico 1300,Pequeno,Zacapa,30
+1301,Proveedor Sintetico 1301,Pequeno,Zacapa,15
+1302,Proveedor Sintetico 1302,Pequeno,Quetzaltenango,45
+1303,Proveedor Sintetico 1303,Mediano,Quetzaltenango,60
+1304,Proveedor Sintetico 1304,Mediano,Escuintla,45
+1305,Proveedor Sintetico 1305,Mediano,Villa Nueva,30
+1306,Proveedor Sintetico 1306,Pequeno,Guatemala,15
+1307,Proveedor Sintetico 1307,Pequeno,Guatemala,60
+1308,Proveedor Sintetico 1308,Mediano,Quetzaltenango,30
+1309,Proveedor Sintetico 1309,Pequeno,Escuintla,30
+1310,Proveedor Sintetico 1310,Pequeno,Zacapa,15
+1311,Proveedor Sintetico 1311,Pequeno,Mixco,15
+1312,Proveedor Sintetico 1312,Mediano,Quetzaltenango,60
+1313,Proveedor Sintetico 1313,Pequeno,Zacapa,15
+1314,Proveedor Sintetico 1314,Pequeno,Guatemala,15
+1315,Proveedor Sintetico 1315,Corporativo,Villa Nueva,60
+1316,Proveedor Sintetico 1316,Pequeno,Zacapa,45
+1317,Proveedor Sintetico 1317,Corporativo,Villa Nueva,30
+1318,Proveedor Sintetico 1318,Mediano,Quetzaltenango,30
+1319,Proveedor Sintetico 1319,Pequeno,Quetzaltenango,15
+1320,Proveedor Sintetico 1320,Pequeno,Escuintla,45
+1321,Proveedor Sintetico 1321,Corporativo,Escuintla,60
+1322,Proveedor Sintetico 1322,Corporativo,Villa Nueva,30
+1323,Proveedor Sintetico 1323,Mediano,Villa Nueva,60
+1324,Proveedor Sintetico 1324,Pequeno,Quetzaltenango,30
+1325,Proveedor Sintetico 1325,Mediano,Zacapa,30
+1326,Proveedor Sintetico 1326,Pequeno,Guatemala,45
+1327,Proveedor Sintetico 1327,Pequeno,Guatemala,60
+1328,Proveedor Sintetico 1328,Pequeno,Escuintla,30
+1329,Proveedor Sintetico 1329,Pequeno,Escuintla,60
+1330,Proveedor Sintetico 1330,Corporativo,Mixco,15
+1331,Proveedor Sintetico 1331,Mediano,Escuintla,60
+1332,Proveedor Sintetico 1332,Mediano,Zacapa,30
+1333,Proveedor Sintetico 1333,Mediano,Mixco,15
+1334,Proveedor Sintetico 1334,Mediano,Villa Nueva,15
+1335,Proveedor Sintetico 1335,Pequeno,Escuintla,15
+1336,Proveedor Sintetico 1336,Pequeno,Escuintla,30
+1337,Proveedor Sintetico 1337,Mediano,Escuintla,45
+1338,Proveedor Sintetico 1338,Mediano,Villa Nueva,45
+1339,Proveedor Sintetico 1339,Corporativo,Quetzaltenango,15
+1340,Proveedor Sintetico 1340,Mediano,Zacapa,15
+1341,Proveedor Sintetico 1341,Pequeno,Quetzaltenango,30
+1342,Proveedor Sintetico 1342,Corporativo,Mixco,15
+1343,Proveedor Sintetico 1343,Mediano,Villa Nueva,15
+1344,Proveedor Sintetico 1344,Mediano,Escuintla,15
+1345,Proveedor Sintetico 1345,Pequeno,Quetzaltenango,15
+1346,Proveedor Sintetico 1346,Mediano,Villa Nueva,30
+1347,Proveedor Sintetico 1347,Pequeno,Quetzaltenango,60
+1348,Proveedor Sintetico 1348,Mediano,Quetzaltenango,45
+1349,Proveedor Sintetico 1349,Pequeno,Villa Nueva,30
+1350,Proveedor Sintetico 1350,Mediano,Escuintla,60
+1351,Proveedor Sintetico 1351,Mediano,Quetzaltenango,60
+1352,Proveedor Sintetico 1352,Mediano,Mixco,45
+1353,Proveedor Sintetico 1353,Pequeno,Villa Nueva,60
+1354,Proveedor Sintetico 1354,Mediano,Zacapa,30
+1355,Proveedor Sintetico 1355,Corporativo,Mixco,30
+1356,Proveedor Sintetico 1356,Pequeno,Escuintla,45
+1357,Proveedor Sintetico 1357,Mediano,Villa Nueva,60
+1358,Proveedor Sintetico 1358,Pequeno,Guatemala,45
+1359,Proveedor Sintetico 1359,Mediano,Zacapa,45
+1360,Proveedor Sintetico 1360,Pequeno,Guatemala,15
+1361,Proveedor Sintetico 1361,Pequeno,Quetzaltenango,15
+1362,Proveedor Sintetico 1362,Pequeno,Guatemala,60
+1363,Proveedor Sintetico 1363,Pequeno,Mixco,15
+1364,Proveedor Sintetico 1364,Mediano,Villa Nueva,60
+1365,Proveedor Sintetico 1365,Mediano,Villa Nueva,45
+1366,Proveedor Sintetico 1366,Mediano,Guatemala,60
+1367,Proveedor Sintetico 1367,Pequeno,Mixco,30
+1368,Proveedor Sintetico 1368,Mediano,Guatemala,15
+1369,Proveedor Sintetico 1369,Pequeno,Guatemala,30
+1370,Proveedor Sintetico 1370,Mediano,Escuintla,45
+1371,Proveedor Sintetico 1371,Mediano,Quetzaltenango,15
+1372,Proveedor Sintetico 1372,Pequeno,Villa Nueva,30
+1373,Proveedor Sintetico 1373,Pequeno,Mixco,15
+1374,Proveedor Sintetico 1374,Pequeno,Zacapa,45
+1375,Proveedor Sintetico 1375,Mediano,Zacapa,45
+1376,Proveedor Sintetico 1376,Mediano,Quetzaltenango,60
+1377,Proveedor Sintetico 1377,Mediano,Escuintla,60
+1378,Proveedor Sintetico 1378,Mediano,Villa Nueva,30
+1379,Proveedor Sintetico 1379,Mediano,Villa Nueva,60
+1380,Proveedor Sintetico 1380,Mediano,Escuintla,15
+1381,Proveedor Sintetico 1381,Mediano,Quetzaltenango,15
+1382,Proveedor Sintetico 1382,Pequeno,Mixco,30
+1383,Proveedor Sintetico 1383,Mediano,Quetzaltenango,30
+1384,Proveedor Sintetico 1384,Pequeno,Mixco,60
+1385,Proveedor Sintetico 1385,Mediano,Quetzaltenango,60
+1386,Proveedor Sintetico 1386,Pequeno,Zacapa,45
+1387,Proveedor Sintetico 1387,Pequeno,Villa Nueva,15
+1388,Proveedor Sintetico 1388,Pequeno,Escuintla,30
+1389,Proveedor Sintetico 1389,Pequeno,Zacapa,30
+1390,Proveedor Sintetico 1390,Pequeno,Zacapa,45
+1391,Proveedor Sintetico 1391,Mediano,Quetzaltenango,15
+1392,Proveedor Sintetico 1392,Pequeno,Escuintla,30
+1393,Proveedor Sintetico 1393,Corporativo,Villa Nueva,30
+1394,Proveedor Sintetico 1394,Corporativo,Quetzaltenango,15
+1395,Proveedor Sintetico 1395,Mediano,Zacapa,45
+1396,Proveedor Sintetico 1396,Mediano,Villa Nueva,60
+1397,Proveedor Sintetico 1397,Mediano,Mixco,30
+1398,Proveedor Sintetico 1398,Corporativo,Guatemala,45
+1399,Proveedor Sintetico 1399,Mediano,Quetzaltenango,60
+1400,Proveedor Sintetico 1400,Corporativo,Quetzaltenango,15
+1401,Proveedor Sintetico 1401,Mediano,Mixco,30
+1402,Proveedor Sintetico 1402,Mediano,Zacapa,60
+1403,Proveedor Sintetico 1403,Mediano,Quetzaltenango,15
+1404,Proveedor Sintetico 1404,Corporativo,Mixco,45
+1405,Proveedor Sintetico 1405,Pequeno,Guatemala,45
+1406,Proveedor Sintetico 1406,Mediano,Villa Nueva,30
+1407,Proveedor Sintetico 1407,Pequeno,Villa Nueva,15
+1408,Proveedor Sintetico 1408,Pequeno,Mixco,30
+1409,Proveedor Sintetico 1409,Corporativo,Escuintla,45
+1410,Proveedor Sintetico 1410,Mediano,Guatemala,60
+1411,Proveedor Sintetico 1411,Mediano,Quetzaltenango,15
+1412,Proveedor Sintetico 1412,Pequeno,Mixco,30
+1413,Proveedor Sintetico 1413,Mediano,Zacapa,60
+1414,Proveedor Sintetico 1414,Pequeno,Mixco,30
+1415,Proveedor Sintetico 1415,Mediano,Guatemala,45
+1416,Proveedor Sintetico 1416,Corporativo,Escuintla,30
+1417,Proveedor Sintetico 1417,Mediano,Mixco,60
+1418,Proveedor Sintetico 1418,Mediano,Guatemala,15
+1419,Proveedor Sintetico 1419,Pequeno,Zacapa,30
+1420,Proveedor Sintetico 1420,Pequeno,Villa Nueva,45
+1421,Proveedor Sintetico 1421,Corporativo,Zacapa,30
+1422,Proveedor Sintetico 1422,Pequeno,Quetzaltenango,60
+1423,Proveedor Sintetico 1423,Pequeno,Villa Nueva,30
+1424,Proveedor Sintetico 1424,Pequeno,Quetzaltenango,15
+1425,Proveedor Sintetico 1425,Pequeno,Villa Nueva,60
+1426,Proveedor Sintetico 1426,Pequeno,Escuintla,45
+1427,Proveedor Sintetico 1427,Pequeno,Quetzaltenango,30
+1428,Proveedor Sintetico 1428,Pequeno,Guatemala,60
+1429,Proveedor Sintetico 1429,Corporativo,Guatemala,15
+1430,Proveedor Sintetico 1430,Pequeno,Escuintla,45
+1431,Proveedor Sintetico 1431,Pequeno,Mixco,60
+1432,Proveedor Sintetico 1432,Corporativo,Escuintla,60
+1433,Proveedor Sintetico 1433,Pequeno,Quetzaltenango,60
+1434,Proveedor Sintetico 1434,Pequeno,Mixco,30
+1435,Proveedor Sintetico 1435,Mediano,Escuintla,60
+1436,Proveedor Sintetico 1436,Mediano,Guatemala,30
+1437,Proveedor Sintetico 1437,Pequeno,Escuintla,15
+1438,Proveedor Sintetico 1438,Pequeno,Escuintla,30
+1439,Proveedor Sintetico 1439,Pequeno,Zacapa,60
+1440,Proveedor Sintetico 1440,Mediano,Mixco,30
+1441,Proveedor Sintetico 1441,Corporativo,Mixco,30
+1442,Proveedor Sintetico 1442,Mediano,Zacapa,30
+1443,Proveedor Sintetico 1443,Pequeno,Mixco,15
+1444,Proveedor Sintetico 1444,Pequeno,Quetzaltenango,15
+1445,Proveedor Sintetico 1445,Mediano,Escuintla,60
+1446,Proveedor Sintetico 1446,Pequeno,Guatemala,60
+1447,Proveedor Sintetico 1447,Pequeno,Quetzaltenango,15
+1448,Proveedor Sintetico 1448,Pequeno,Escuintla,45
+1449,Proveedor Sintetico 1449,Mediano,Villa Nueva,30
+1450,Proveedor Sintetico 1450,Corporativo,Zacapa,30
+1451,Proveedor Sintetico 1451,Mediano,Mixco,60
+1452,Proveedor Sintetico 1452,Pequeno,Mixco,60
+1453,Proveedor Sintetico 1453,Corporativo,Quetzaltenango,30
+1454,Proveedor Sintetico 1454,Pequeno,Guatemala,45
+1455,Proveedor Sintetico 1455,Corporativo,Escuintla,45
+1456,Proveedor Sintetico 1456,Pequeno,Escuintla,15
+1457,Proveedor Sintetico 1457,Corporativo,Mixco,60
+1458,Proveedor Sintetico 1458,Pequeno,Zacapa,30
+1459,Proveedor Sintetico 1459,Pequeno,Quetzaltenango,30
+1460,Proveedor Sintetico 1460,Pequeno,Zacapa,30
+1461,Proveedor Sintetico 1461,Pequeno,Mixco,45
+1462,Proveedor Sintetico 1462,Corporativo,Quetzaltenango,30
+1463,Proveedor Sintetico 1463,Pequeno,Zacapa,15
+1464,Proveedor Sintetico 1464,Mediano,Escuintla,45
+1465,Proveedor Sintetico 1465,Pequeno,Mixco,15
+1466,Proveedor Sintetico 1466,Pequeno,Villa Nueva,30
+1467,Proveedor Sintetico 1467,Pequeno,Quetzaltenango,15
+1468,Proveedor Sintetico 1468,Pequeno,Escuintla,15
+1469,Proveedor Sintetico 1469,Pequeno,Villa Nueva,15
+1470,Proveedor Sintetico 1470,Pequeno,Zacapa,30
+1471,Proveedor Sintetico 1471,Corporativo,Guatemala,60
+1472,Proveedor Sintetico 1472,Pequeno,Mixco,45
+1473,Proveedor Sintetico 1473,Pequeno,Escuintla,60
+1474,Proveedor Sintetico 1474,Mediano,Villa Nueva,30
+1475,Proveedor Sintetico 1475,Mediano,Zacapa,15
+1476,Proveedor Sintetico 1476,Pequeno,Mixco,45
+1477,Proveedor Sintetico 1477,Pequeno,Mixco,15
+1478,Proveedor Sintetico 1478,Pequeno,Guatemala,15
+1479,Proveedor Sintetico 1479,Pequeno,Guatemala,45
+1480,Proveedor Sintetico 1480,Pequeno,Guatemala,15
+1481,Proveedor Sintetico 1481,Pequeno,Zacapa,45
+1482,Proveedor Sintetico 1482,Mediano,Mixco,15
+1483,Proveedor Sintetico 1483,Mediano,Escuintla,60
+1484,Proveedor Sintetico 1484,Corporativo,Zacapa,30
+1485,Proveedor Sintetico 1485,Pequeno,Quetzaltenango,60
+1486,Proveedor Sintetico 1486,Pequeno,Zacapa,15
+1487,Proveedor Sintetico 1487,Mediano,Escuintla,45
+1488,Proveedor Sintetico 1488,Mediano,Mixco,60
+1489,Proveedor Sintetico 1489,Mediano,Guatemala,45
+1490,Proveedor Sintetico 1490,Mediano,Quetzaltenango,60
+1491,Proveedor Sintetico 1491,Pequeno,Guatemala,30
+1492,Proveedor Sintetico 1492,Pequeno,Villa Nueva,60
+1493,Proveedor Sintetico 1493,Corporativo,Zacapa,60
+1494,Proveedor Sintetico 1494,Mediano,Guatemala,30
+1495,Proveedor Sintetico 1495,Mediano,Quetzaltenango,60
+1496,Proveedor Sintetico 1496,Pequeno,Mixco,60
+1497,Proveedor Sintetico 1497,Mediano,Mixco,15
+1498,Proveedor Sintetico 1498,Pequeno,Villa Nueva,15
+1499,Proveedor Sintetico 1499,Corporativo,Mixco,30
+1500,Proveedor Sintetico 1500,Pequeno,Villa Nueva,45
+1501,Proveedor Sintetico 1501,Mediano,Mixco,60
+1502,Proveedor Sintetico 1502,Corporativo,Zacapa,60
+1503,Proveedor Sintetico 1503,Mediano,Guatemala,45
+1504,Proveedor Sintetico 1504,Pequeno,Villa Nueva,15
+1505,Proveedor Sintetico 1505,Mediano,Villa Nueva,60
+1506,Proveedor Sintetico 1506,Mediano,Escuintla,15
+1507,Proveedor Sintetico 1507,Mediano,Escuintla,30
+1508,Proveedor Sintetico 1508,Mediano,Mixco,45
+1509,Proveedor Sintetico 1509,Corporativo,Mixco,15
+1510,Proveedor Sintetico 1510,Pequeno,Escuintla,15
+1511,Proveedor Sintetico 1511,Mediano,Guatemala,15
+1512,Proveedor Sintetico 1512,Mediano,Zacapa,30
+1513,Proveedor Sintetico 1513,Corporativo,Quetzaltenango,45
+1514,Proveedor Sintetico 1514,Mediano,Guatemala,45
+1515,Proveedor Sintetico 1515,Corporativo,Escuintla,30
+1516,Proveedor Sintetico 1516,Pequeno,Villa Nueva,15
+1517,Proveedor Sintetico 1517,Mediano,Quetzaltenango,30
+1518,Proveedor Sintetico 1518,Mediano,Guatemala,15
+1519,Proveedor Sintetico 1519,Mediano,Guatemala,15
+1520,Proveedor Sintetico 1520,Pequeno,Villa Nueva,30
+1521,Proveedor Sintetico 1521,Mediano,Villa Nueva,30
+1522,Proveedor Sintetico 1522,Corporativo,Guatemala,30
+1523,Proveedor Sintetico 1523,Pequeno,Escuintla,30
+1524,Proveedor Sintetico 1524,Pequeno,Villa Nueva,15
+1525,Proveedor Sintetico 1525,Pequeno,Villa Nueva,60
+1526,Proveedor Sintetico 1526,Pequeno,Guatemala,15
+1527,Proveedor Sintetico 1527,Corporativo,Guatemala,15
+1528,Proveedor Sintetico 1528,Mediano,Mixco,45
+1529,Proveedor Sintetico 1529,Pequeno,Zacapa,45
+1530,Proveedor Sintetico 1530,Pequeno,Escuintla,30
+1531,Proveedor Sintetico 1531,Pequeno,Quetzaltenango,60
+1532,Proveedor Sintetico 1532,Mediano,Villa Nueva,45
+1533,Proveedor Sintetico 1533,Pequeno,Escuintla,45
+1534,Proveedor Sintetico 1534,Mediano,Guatemala,45
+1535,Proveedor Sintetico 1535,Pequeno,Zacapa,15
+1536,Proveedor Sintetico 1536,Pequeno,Zacapa,45
+1537,Proveedor Sintetico 1537,Pequeno,Quetzaltenango,60
+1538,Proveedor Sintetico 1538,Pequeno,Mixco,15
+1539,Proveedor Sintetico 1539,Mediano,Zacapa,45
+1540,Proveedor Sintetico 1540,Mediano,Villa Nueva,15
+1541,Proveedor Sintetico 1541,Pequeno,Escuintla,60
+1542,Proveedor Sintetico 1542,Mediano,Mixco,60
+1543,Proveedor Sintetico 1543,Mediano,Zacapa,45
+1544,Proveedor Sintetico 1544,Pequeno,Escuintla,30
+1545,Proveedor Sintetico 1545,Pequeno,Zacapa,45
+1546,Proveedor Sintetico 1546,Mediano,Mixco,60
+1547,Proveedor Sintetico 1547,Pequeno,Escuintla,15
+1548,Proveedor Sintetico 1548,Pequeno,Escuintla,60
+1549,Proveedor Sintetico 1549,Corporativo,Villa Nueva,45
+1550,Proveedor Sintetico 1550,Pequeno,Villa Nueva,15
+1551,Proveedor Sintetico 1551,Pequeno,Escuintla,15
+1552,Proveedor Sintetico 1552,Mediano,Mixco,60
+1553,Proveedor Sintetico 1553,Mediano,Mixco,45
+1554,Proveedor Sintetico 1554,Pequeno,Guatemala,45
+1555,Proveedor Sintetico 1555,Pequeno,Villa Nueva,30
+1556,Proveedor Sintetico 1556,Mediano,Guatemala,30
+1557,Proveedor Sintetico 1557,Pequeno,Quetzaltenango,60
+1558,Proveedor Sintetico 1558,Mediano,Zacapa,15
+1559,Proveedor Sintetico 1559,Pequeno,Guatemala,15
+1560,Proveedor Sintetico 1560,Pequeno,Guatemala,30
+1561,Proveedor Sintetico 1561,Mediano,Quetzaltenango,30
+1562,Proveedor Sintetico 1562,Pequeno,Guatemala,30
+1563,Proveedor Sintetico 1563,Mediano,Mixco,15
+1564,Proveedor Sintetico 1564,Pequeno,Quetzaltenango,30
+1565,Proveedor Sintetico 1565,Mediano,Guatemala,15
+1566,Proveedor Sintetico 1566,Pequeno,Villa Nueva,30
+1567,Proveedor Sintetico 1567,Corporativo,Quetzaltenango,45
+1568,Proveedor Sintetico 1568,Mediano,Guatemala,60
+1569,Proveedor Sintetico 1569,Pequeno,Villa Nueva,30
+1570,Proveedor Sintetico 1570,Pequeno,Guatemala,15
+1571,Proveedor Sintetico 1571,Pequeno,Zacapa,15
+1572,Proveedor Sintetico 1572,Mediano,Escuintla,15
+1573,Proveedor Sintetico 1573,Pequeno,Guatemala,45
+1574,Proveedor Sintetico 1574,Pequeno,Villa Nueva,30
+1575,Proveedor Sintetico 1575,Mediano,Zacapa,30
+1576,Proveedor Sintetico 1576,Pequeno,Escuintla,45
+1577,Proveedor Sintetico 1577,Corporativo,Mixco,45
+1578,Proveedor Sintetico 1578,Corporativo,Mixco,15
+1579,Proveedor Sintetico 1579,Pequeno,Quetzaltenango,30
+1580,Proveedor Sintetico 1580,Pequeno,Zacapa,15
+1581,Proveedor Sintetico 1581,Pequeno,Mixco,15
+1582,Proveedor Sintetico 1582,Pequeno,Quetzaltenango,15
+1583,Proveedor Sintetico 1583,Mediano,Quetzaltenango,60
+1584,Proveedor Sintetico 1584,Mediano,Guatemala,30
+1585,Proveedor Sintetico 1585,Pequeno,Villa Nueva,30
+1586,Proveedor Sintetico 1586,Corporativo,Quetzaltenango,15
+1587,Proveedor Sintetico 1587,Pequeno,Guatemala,60
+1588,Proveedor Sintetico 1588,Mediano,Villa Nueva,60
+1589,Proveedor Sintetico 1589,Pequeno,Mixco,30
+1590,Proveedor Sintetico 1590,Pequeno,Zacapa,15
+1591,Proveedor Sintetico 1591,Pequeno,Mixco,15
+1592,Proveedor Sintetico 1592,Pequeno,Quetzaltenango,60
+1593,Proveedor Sintetico 1593,Pequeno,Escuintla,60
+1594,Proveedor Sintetico 1594,Pequeno,Zacapa,60
+1595,Proveedor Sintetico 1595,Pequeno,Guatemala,15
+1596,Proveedor Sintetico 1596,Pequeno,Villa Nueva,30
+1597,Proveedor Sintetico 1597,Pequeno,Mixco,45
+1598,Proveedor Sintetico 1598,Corporativo,Mixco,45
+1599,Proveedor Sintetico 1599,Pequeno,Escuintla,15
+1600,Proveedor Sintetico 1600,Mediano,Zacapa,15
+1601,Proveedor Sintetico 1601,Mediano,Guatemala,45
+1602,Proveedor Sintetico 1602,Mediano,Mixco,15
+1603,Proveedor Sintetico 1603,Pequeno,Quetzaltenango,60
+1604,Proveedor Sintetico 1604,Mediano,Villa Nueva,60
+1605,Proveedor Sintetico 1605,Pequeno,Guatemala,30
+1606,Proveedor Sintetico 1606,Corporativo,Villa Nueva,60
+1607,Proveedor Sintetico 1607,Mediano,Mixco,45
+1608,Proveedor Sintetico 1608,Pequeno,Zacapa,15
+1609,Proveedor Sintetico 1609,Pequeno,Guatemala,60
+1610,Proveedor Sintetico 1610,Mediano,Zacapa,30
+1611,Proveedor Sintetico 1611,Pequeno,Mixco,30
+1612,Proveedor Sintetico 1612,Pequeno,Escuintla,45
+1613,Proveedor Sintetico 1613,Pequeno,Villa Nueva,30
+1614,Proveedor Sintetico 1614,Mediano,Villa Nueva,60
+1615,Proveedor Sintetico 1615,Pequeno,Guatemala,15
+1616,Proveedor Sintetico 1616,Pequeno,Quetzaltenango,60
+1617,Proveedor Sintetico 1617,Pequeno,Mixco,30
+1618,Proveedor Sintetico 1618,Mediano,Zacapa,45
+1619,Proveedor Sintetico 1619,Pequeno,Guatemala,60
+1620,Proveedor Sintetico 1620,Mediano,Villa Nueva,60
+1621,Proveedor Sintetico 1621,Corporativo,Villa Nueva,15
+1622,Proveedor Sintetico 1622,Pequeno,Guatemala,30
+1623,Proveedor Sintetico 1623,Mediano,Quetzaltenango,15
+1624,Proveedor Sintetico 1624,Pequeno,Villa Nueva,60
+1625,Proveedor Sintetico 1625,Pequeno,Escuintla,30
+1626,Proveedor Sintetico 1626,Mediano,Quetzaltenango,15
+1627,Proveedor Sintetico 1627,Mediano,Zacapa,15
+1628,Proveedor Sintetico 1628,Pequeno,Escuintla,60
+1629,Proveedor Sintetico 1629,Pequeno,Zacapa,15
+1630,Proveedor Sintetico 1630,Mediano,Guatemala,60
+1631,Proveedor Sintetico 1631,Pequeno,Villa Nueva,45
+1632,Proveedor Sintetico 1632,Pequeno,Zacapa,45
+1633,Proveedor Sintetico 1633,Pequeno,Guatemala,30
+1634,Proveedor Sintetico 1634,Corporativo,Mixco,15
+1635,Proveedor Sintetico 1635,Pequeno,Guatemala,45
+1636,Proveedor Sintetico 1636,Pequeno,Quetzaltenango,15
+1637,Proveedor Sintetico 1637,Pequeno,Zacapa,30
+1638,Proveedor Sintetico 1638,Mediano,Villa Nueva,60
+1639,Proveedor Sintetico 1639,Mediano,Escuintla,30
+1640,Proveedor Sintetico 1640,Pequeno,Villa Nueva,30
+1641,Proveedor Sintetico 1641,Corporativo,Villa Nueva,45
+1642,Proveedor Sintetico 1642,Mediano,Zacapa,45
+1643,Proveedor Sintetico 1643,Pequeno,Zacapa,15
+1644,Proveedor Sintetico 1644,Mediano,Mixco,15
+1645,Proveedor Sintetico 1645,Mediano,Guatemala,30
+1646,Proveedor Sintetico 1646,Mediano,Guatemala,30
+1647,Proveedor Sintetico 1647,Pequeno,Guatemala,60
+1648,Proveedor Sintetico 1648,Corporativo,Villa Nueva,45
+1649,Proveedor Sintetico 1649,Corporativo,Guatemala,60
+1650,Proveedor Sintetico 1650,Pequeno,Guatemala,60
+1651,Proveedor Sintetico 1651,Pequeno,Zacapa,60
+1652,Proveedor Sintetico 1652,Corporativo,Guatemala,45
+1653,Proveedor Sintetico 1653,Pequeno,Zacapa,60
+1654,Proveedor Sintetico 1654,Pequeno,Zacapa,30
+1655,Proveedor Sintetico 1655,Pequeno,Guatemala,30
+1656,Proveedor Sintetico 1656,Pequeno,Mixco,60
+1657,Proveedor Sintetico 1657,Pequeno,Quetzaltenango,45
+1658,Proveedor Sintetico 1658,Corporativo,Zacapa,45
+1659,Proveedor Sintetico 1659,Pequeno,Escuintla,45
+1660,Proveedor Sintetico 1660,Pequeno,Mixco,15
+1661,Proveedor Sintetico 1661,Pequeno,Villa Nueva,15
+1662,Proveedor Sintetico 1662,Pequeno,Mixco,60
+1663,Proveedor Sintetico 1663,Pequeno,Zacapa,60
+1664,Proveedor Sintetico 1664,Corporativo,Quetzaltenango,15
+1665,Proveedor Sintetico 1665,Pequeno,Quetzaltenango,15
+1666,Proveedor Sintetico 1666,Pequeno,Quetzaltenango,60
+1667,Proveedor Sintetico 1667,Pequeno,Villa Nueva,45
+1668,Proveedor Sintetico 1668,Pequeno,Mixco,15
+1669,Proveedor Sintetico 1669,Mediano,Quetzaltenango,30
+1670,Proveedor Sintetico 1670,Mediano,Mixco,15
+1671,Proveedor Sintetico 1671,Mediano,Guatemala,15
+1672,Proveedor Sintetico 1672,Pequeno,Quetzaltenango,60
+1673,Proveedor Sintetico 1673,Pequeno,Guatemala,30
+1674,Proveedor Sintetico 1674,Pequeno,Escuintla,15
+1675,Proveedor Sintetico 1675,Corporativo,Escuintla,60
+1676,Proveedor Sintetico 1676,Corporativo,Zacapa,15
+1677,Proveedor Sintetico 1677,Pequeno,Zacapa,15
+1678,Proveedor Sintetico 1678,Pequeno,Quetzaltenango,30
+1679,Proveedor Sintetico 1679,Pequeno,Mixco,15
+1680,Proveedor Sintetico 1680,Pequeno,Villa Nueva,15
+1681,Proveedor Sintetico 1681,Mediano,Zacapa,45
+1682,Proveedor Sintetico 1682,Mediano,Zacapa,15
+1683,Proveedor Sintetico 1683,Pequeno,Escuintla,60
+1684,Proveedor Sintetico 1684,Pequeno,Zacapa,45
+1685,Proveedor Sintetico 1685,Corporativo,Zacapa,30
+1686,Proveedor Sintetico 1686,Mediano,Mixco,30
+1687,Proveedor Sintetico 1687,Mediano,Zacapa,30
+1688,Proveedor Sintetico 1688,Pequeno,Mixco,30
+1689,Proveedor Sintetico 1689,Pequeno,Mixco,60
+1690,Proveedor Sintetico 1690,Pequeno,Guatemala,30
+1691,Proveedor Sintetico 1691,Mediano,Escuintla,30
+1692,Proveedor Sintetico 1692,Pequeno,Quetzaltenango,60
+1693,Proveedor Sintetico 1693,Mediano,Villa Nueva,30
+1694,Proveedor Sintetico 1694,Corporativo,Mixco,60
+1695,Proveedor Sintetico 1695,Mediano,Zacapa,30
+1696,Proveedor Sintetico 1696,Mediano,Mixco,60
+1697,Proveedor Sintetico 1697,Pequeno,Quetzaltenango,30
+1698,Proveedor Sintetico 1698,Pequeno,Escuintla,15
+1699,Proveedor Sintetico 1699,Pequeno,Quetzaltenango,60
+1700,Proveedor Sintetico 1700,Mediano,Zacapa,15
+1701,Proveedor Sintetico 1701,Mediano,Guatemala,60
+1702,Proveedor Sintetico 1702,Pequeno,Mixco,60
+1703,Proveedor Sintetico 1703,Corporativo,Zacapa,45
+1704,Proveedor Sintetico 1704,Pequeno,Escuintla,60
+1705,Proveedor Sintetico 1705,Mediano,Villa Nueva,15
+1706,Proveedor Sintetico 1706,Corporativo,Mixco,45
+1707,Proveedor Sintetico 1707,Pequeno,Guatemala,45
+1708,Proveedor Sintetico 1708,Corporativo,Guatemala,30
+1709,Proveedor Sintetico 1709,Pequeno,Villa Nueva,30
+1710,Proveedor Sintetico 1710,Mediano,Zacapa,15
+1711,Proveedor Sintetico 1711,Mediano,Escuintla,15
+1712,Proveedor Sintetico 1712,Pequeno,Mixco,60
+1713,Proveedor Sintetico 1713,Pequeno,Quetzaltenango,45
+1714,Proveedor Sintetico 1714,Pequeno,Zacapa,30
+1715,Proveedor Sintetico 1715,Mediano,Mixco,60
+1716,Proveedor Sintetico 1716,Pequeno,Quetzaltenango,15
+1717,Proveedor Sintetico 1717,Mediano,Zacapa,45
+1718,Proveedor Sintetico 1718,Corporativo,Zacapa,15
+1719,Proveedor Sintetico 1719,Mediano,Quetzaltenango,15
+1720,Proveedor Sintetico 1720,Pequeno,Mixco,15
+1721,Proveedor Sintetico 1721,Pequeno,Guatemala,60
+1722,Proveedor Sintetico 1722,Pequeno,Villa Nueva,45
+1723,Proveedor Sintetico 1723,Pequeno,Escuintla,30
+1724,Proveedor Sintetico 1724,Mediano,Mixco,45
+1725,Proveedor Sintetico 1725,Pequeno,Zacapa,60
+1726,Proveedor Sintetico 1726,Pequeno,Escuintla,30
+1727,Proveedor Sintetico 1727,Pequeno,Mixco,30
+1728,Proveedor Sintetico 1728,Corporativo,Villa Nueva,45
+1729,Proveedor Sintetico 1729,Pequeno,Escuintla,45
+1730,Proveedor Sintetico 1730,Pequeno,Guatemala,30
+1731,Proveedor Sintetico 1731,Corporativo,Villa Nueva,45
+1732,Proveedor Sintetico 1732,Pequeno,Guatemala,15
+1733,Proveedor Sintetico 1733,Pequeno,Guatemala,60
+1734,Proveedor Sintetico 1734,Corporativo,Zacapa,30
+1735,Proveedor Sintetico 1735,Mediano,Quetzaltenango,30
+1736,Proveedor Sintetico 1736,Mediano,Quetzaltenango,30
+1737,Proveedor Sintetico 1737,Pequeno,Guatemala,30
+1738,Proveedor Sintetico 1738,Pequeno,Guatemala,45
+1739,Proveedor Sintetico 1739,Corporativo,Escuintla,60
+1740,Proveedor Sintetico 1740,Pequeno,Guatemala,15
+1741,Proveedor Sintetico 1741,Mediano,Zacapa,15
+1742,Proveedor Sintetico 1742,Pequeno,Guatemala,30
+1743,Proveedor Sintetico 1743,Mediano,Villa Nueva,15
+1744,Proveedor Sintetico 1744,Mediano,Mixco,45
+1745,Proveedor Sintetico 1745,Corporativo,Escuintla,60
+1746,Proveedor Sintetico 1746,Mediano,Zacapa,15
+1747,Proveedor Sintetico 1747,Pequeno,Mixco,30
+1748,Proveedor Sintetico 1748,Mediano,Guatemala,30
+1749,Proveedor Sintetico 1749,Pequeno,Villa Nueva,15
+1750,Proveedor Sintetico 1750,Pequeno,Escuintla,15
+1751,Proveedor Sintetico 1751,Pequeno,Guatemala,15
+1752,Proveedor Sintetico 1752,Pequeno,Mixco,15
+1753,Proveedor Sintetico 1753,Corporativo,Mixco,30
+1754,Proveedor Sintetico 1754,Pequeno,Guatemala,30
+1755,Proveedor Sintetico 1755,Mediano,Escuintla,45
+1756,Proveedor Sintetico 1756,Corporativo,Quetzaltenango,45
+1757,Proveedor Sintetico 1757,Mediano,Zacapa,60
+1758,Proveedor Sintetico 1758,Pequeno,Guatemala,60
+1759,Proveedor Sintetico 1759,Pequeno,Zacapa,30
+1760,Proveedor Sintetico 1760,Pequeno,Villa Nueva,45
+1761,Proveedor Sintetico 1761,Mediano,Villa Nueva,15
+1762,Proveedor Sintetico 1762,Pequeno,Quetzaltenango,60
+1763,Proveedor Sintetico 1763,Corporativo,Zacapa,15
+1764,Proveedor Sintetico 1764,Mediano,Zacapa,15
+1765,Proveedor Sintetico 1765,Mediano,Quetzaltenango,45
+1766,Proveedor Sintetico 1766,Mediano,Villa Nueva,15
+1767,Proveedor Sintetico 1767,Mediano,Zacapa,30
+1768,Proveedor Sintetico 1768,Corporativo,Guatemala,30
+1769,Proveedor Sintetico 1769,Mediano,Escuintla,60
+1770,Proveedor Sintetico 1770,Pequeno,Guatemala,30
+1771,Proveedor Sintetico 1771,Mediano,Quetzaltenango,15
+1772,Proveedor Sintetico 1772,Pequeno,Villa Nueva,60
+1773,Proveedor Sintetico 1773,Pequeno,Zacapa,60
+1774,Proveedor Sintetico 1774,Pequeno,Zacapa,45
+1775,Proveedor Sintetico 1775,Corporativo,Villa Nueva,15
+1776,Proveedor Sintetico 1776,Mediano,Quetzaltenango,45
+1777,Proveedor Sintetico 1777,Pequeno,Escuintla,60
+1778,Proveedor Sintetico 1778,Pequeno,Guatemala,15
+1779,Proveedor Sintetico 1779,Pequeno,Guatemala,60
+1780,Proveedor Sintetico 1780,Mediano,Escuintla,60
+1781,Proveedor Sintetico 1781,Corporativo,Escuintla,15
+1782,Proveedor Sintetico 1782,Mediano,Escuintla,60
+1783,Proveedor Sintetico 1783,Mediano,Zacapa,45
+1784,Proveedor Sintetico 1784,Pequeno,Mixco,45
+1785,Proveedor Sintetico 1785,Mediano,Zacapa,60
+1786,Proveedor Sintetico 1786,Pequeno,Guatemala,30
+1787,Proveedor Sintetico 1787,Corporativo,Zacapa,15
+1788,Proveedor Sintetico 1788,Mediano,Villa Nueva,15
+1789,Proveedor Sintetico 1789,Pequeno,Guatemala,30
+1790,Proveedor Sintetico 1790,Mediano,Mixco,45
+1791,Proveedor Sintetico 1791,Pequeno,Mixco,45
+1792,Proveedor Sintetico 1792,Mediano,Villa Nueva,15
+1793,Proveedor Sintetico 1793,Pequeno,Guatemala,15
+1794,Proveedor Sintetico 1794,Mediano,Mixco,45
+1795,Proveedor Sintetico 1795,Pequeno,Quetzaltenango,15
+1796,Proveedor Sintetico 1796,Mediano,Guatemala,60
+1797,Proveedor Sintetico 1797,Corporativo,Mixco,60
+1798,Proveedor Sintetico 1798,Pequeno,Zacapa,45
+1799,Proveedor Sintetico 1799,Pequeno,Zacapa,15
+1800,Proveedor Sintetico 1800,Pequeno,Zacapa,30
+1801,Proveedor Sintetico 1801,Pequeno,Zacapa,30
+1802,Proveedor Sintetico 1802,Pequeno,Guatemala,15
+1803,Proveedor Sintetico 1803,Pequeno,Mixco,15
+1804,Proveedor Sintetico 1804,Pequeno,Villa Nueva,30
+1805,Proveedor Sintetico 1805,Pequeno,Zacapa,45
+1806,Proveedor Sintetico 1806,Pequeno,Guatemala,60
+1807,Proveedor Sintetico 1807,Mediano,Escuintla,45
+1808,Proveedor Sintetico 1808,Pequeno,Quetzaltenango,45
+1809,Proveedor Sintetico 1809,Mediano,Escuintla,15
+1810,Proveedor Sintetico 1810,Pequeno,Villa Nueva,45
+1811,Proveedor Sintetico 1811,Pequeno,Escuintla,45
+1812,Proveedor Sintetico 1812,Pequeno,Escuintla,30
+1813,Proveedor Sintetico 1813,Pequeno,Mixco,15
+1814,Proveedor Sintetico 1814,Corporativo,Quetzaltenango,30
+1815,Proveedor Sintetico 1815,Pequeno,Guatemala,30
+1816,Proveedor Sintetico 1816,Pequeno,Quetzaltenango,60
+1817,Proveedor Sintetico 1817,Pequeno,Escuintla,30
+1818,Proveedor Sintetico 1818,Pequeno,Villa Nueva,30
+1819,Proveedor Sintetico 1819,Pequeno,Villa Nueva,30
+1820,Proveedor Sintetico 1820,Pequeno,Villa Nueva,60
+1821,Proveedor Sintetico 1821,Pequeno,Mixco,30
+1822,Proveedor Sintetico 1822,Pequeno,Mixco,30
+1823,Proveedor Sintetico 1823,Mediano,Villa Nueva,30
+1824,Proveedor Sintetico 1824,Corporativo,Quetzaltenango,30
+1825,Proveedor Sintetico 1825,Mediano,Zacapa,30
+1826,Proveedor Sintetico 1826,Mediano,Mixco,45
+1827,Proveedor Sintetico 1827,Corporativo,Escuintla,15
+1828,Proveedor Sintetico 1828,Pequeno,Guatemala,60
+1829,Proveedor Sintetico 1829,Pequeno,Quetzaltenango,60
+1830,Proveedor Sintetico 1830,Pequeno,Zacapa,60
+1831,Proveedor Sintetico 1831,Pequeno,Escuintla,60
+1832,Proveedor Sintetico 1832,Mediano,Quetzaltenango,30
+1833,Proveedor Sintetico 1833,Pequeno,Guatemala,45
+1834,Proveedor Sintetico 1834,Mediano,Escuintla,15
+1835,Proveedor Sintetico 1835,Mediano,Zacapa,45
+1836,Proveedor Sintetico 1836,Pequeno,Mixco,60
+1837,Proveedor Sintetico 1837,Mediano,Mixco,45
+1838,Proveedor Sintetico 1838,Pequeno,Guatemala,30
+1839,Proveedor Sintetico 1839,Mediano,Mixco,30
+1840,Proveedor Sintetico 1840,Pequeno,Villa Nueva,45
+1841,Proveedor Sintetico 1841,Mediano,Guatemala,45
+1842,Proveedor Sintetico 1842,Pequeno,Mixco,30
+1843,Proveedor Sintetico 1843,Pequeno,Quetzaltenango,30
+1844,Proveedor Sintetico 1844,Mediano,Guatemala,60
+1845,Proveedor Sintetico 1845,Corporativo,Escuintla,15
+1846,Proveedor Sintetico 1846,Corporativo,Escuintla,60
+1847,Proveedor Sintetico 1847,Pequeno,Escuintla,60
+1848,Proveedor Sintetico 1848,Mediano,Villa Nueva,60
+1849,Proveedor Sintetico 1849,Corporativo,Zacapa,60
+1850,Proveedor Sintetico 1850,Pequeno,Escuintla,60
+1851,Proveedor Sintetico 1851,Pequeno,Villa Nueva,60
+1852,Proveedor Sintetico 1852,Pequeno,Escuintla,60
+1853,Proveedor Sintetico 1853,Mediano,Escuintla,15
+1854,Proveedor Sintetico 1854,Pequeno,Villa Nueva,45
+1855,Proveedor Sintetico 1855,Pequeno,Escuintla,15
+1856,Proveedor Sintetico 1856,Mediano,Villa Nueva,30
+1857,Proveedor Sintetico 1857,Corporativo,Villa Nueva,15
+1858,Proveedor Sintetico 1858,Pequeno,Quetzaltenango,15
+1859,Proveedor Sintetico 1859,Pequeno,Escuintla,15
+1860,Proveedor Sintetico 1860,Pequeno,Zacapa,60
+1861,Proveedor Sintetico 1861,Pequeno,Zacapa,15
+1862,Proveedor Sintetico 1862,Mediano,Quetzaltenango,15
+1863,Proveedor Sintetico 1863,Mediano,Quetzaltenango,15
+1864,Proveedor Sintetico 1864,Pequeno,Escuintla,45
+1865,Proveedor Sintetico 1865,Pequeno,Mixco,15
+1866,Proveedor Sintetico 1866,Mediano,Escuintla,15
+1867,Proveedor Sintetico 1867,Pequeno,Escuintla,60
+1868,Proveedor Sintetico 1868,Mediano,Quetzaltenango,60
+1869,Proveedor Sintetico 1869,Mediano,Mixco,15
+1870,Proveedor Sintetico 1870,Pequeno,Zacapa,60
+1871,Proveedor Sintetico 1871,Pequeno,Quetzaltenango,15
+1872,Proveedor Sintetico 1872,Corporativo,Villa Nueva,45
+1873,Proveedor Sintetico 1873,Corporativo,Mixco,45
+1874,Proveedor Sintetico 1874,Mediano,Villa Nueva,15
+1875,Proveedor Sintetico 1875,Pequeno,Quetzaltenango,45
+1876,Proveedor Sintetico 1876,Mediano,Zacapa,30
+1877,Proveedor Sintetico 1877,Pequeno,Quetzaltenango,15
+1878,Proveedor Sintetico 1878,Pequeno,Mixco,30
+1879,Proveedor Sintetico 1879,Mediano,Guatemala,30
+1880,Proveedor Sintetico 1880,Pequeno,Villa Nueva,60
+1881,Proveedor Sintetico 1881,Pequeno,Quetzaltenango,30
+1882,Proveedor Sintetico 1882,Mediano,Villa Nueva,15
+1883,Proveedor Sintetico 1883,Pequeno,Villa Nueva,45
+1884,Proveedor Sintetico 1884,Pequeno,Guatemala,30
+1885,Proveedor Sintetico 1885,Pequeno,Mixco,30
+1886,Proveedor Sintetico 1886,Mediano,Quetzaltenango,15
+1887,Proveedor Sintetico 1887,Mediano,Mixco,15
+1888,Proveedor Sintetico 1888,Pequeno,Guatemala,60
+1889,Proveedor Sintetico 1889,Pequeno,Mixco,60
+1890,Proveedor Sintetico 1890,Pequeno,Escuintla,45
+1891,Proveedor Sintetico 1891,Mediano,Quetzaltenango,15
+1892,Proveedor Sintetico 1892,Corporativo,Escuintla,60
+1893,Proveedor Sintetico 1893,Corporativo,Escuintla,30
+1894,Proveedor Sintetico 1894,Corporativo,Guatemala,45
+1895,Proveedor Sintetico 1895,Pequeno,Villa Nueva,15
+1896,Proveedor Sintetico 1896,Mediano,Mixco,60
+1897,Proveedor Sintetico 1897,Mediano,Zacapa,15
+1898,Proveedor Sintetico 1898,Mediano,Quetzaltenango,30
+1899,Proveedor Sintetico 1899,Mediano,Guatemala,15
+1900,Proveedor Sintetico 1900,Pequeno,Zacapa,15
+1901,Proveedor Sintetico 1901,Mediano,Escuintla,60
+1902,Proveedor Sintetico 1902,Mediano,Escuintla,15
+1903,Proveedor Sintetico 1903,Pequeno,Zacapa,45
+1904,Proveedor Sintetico 1904,Pequeno,Guatemala,30
+1905,Proveedor Sintetico 1905,Corporativo,Guatemala,60
+1906,Proveedor Sintetico 1906,Pequeno,Zacapa,15
+1907,Proveedor Sintetico 1907,Pequeno,Guatemala,15
+1908,Proveedor Sintetico 1908,Mediano,Quetzaltenango,30
+1909,Proveedor Sintetico 1909,Mediano,Guatemala,30
+1910,Proveedor Sintetico 1910,Mediano,Escuintla,45
+1911,Proveedor Sintetico 1911,Mediano,Zacapa,30
+1912,Proveedor Sintetico 1912,Mediano,Guatemala,60
+1913,Proveedor Sintetico 1913,Mediano,Villa Nueva,60
+1914,Proveedor Sintetico 1914,Pequeno,Guatemala,15
+1915,Proveedor Sintetico 1915,Corporativo,Quetzaltenango,60
+1916,Proveedor Sintetico 1916,Mediano,Escuintla,45
+1917,Proveedor Sintetico 1917,Pequeno,Zacapa,45
+1918,Proveedor Sintetico 1918,Pequeno,Mixco,15
+1919,Proveedor Sintetico 1919,Pequeno,Mixco,15
+1920,Proveedor Sintetico 1920,Mediano,Mixco,60
+1921,Proveedor Sintetico 1921,Pequeno,Guatemala,15
+1922,Proveedor Sintetico 1922,Mediano,Zacapa,45
+1923,Proveedor Sintetico 1923,Pequeno,Zacapa,45
+1924,Proveedor Sintetico 1924,Pequeno,Guatemala,60
+1925,Proveedor Sintetico 1925,Corporativo,Zacapa,60
+1926,Proveedor Sintetico 1926,Mediano,Mixco,15
+1927,Proveedor Sintetico 1927,Pequeno,Villa Nueva,45
+1928,Proveedor Sintetico 1928,Pequeno,Villa Nueva,30
+1929,Proveedor Sintetico 1929,Corporativo,Quetzaltenango,15
+1930,Proveedor Sintetico 1930,Mediano,Guatemala,60
+1931,Proveedor Sintetico 1931,Corporativo,Quetzaltenango,30
+1932,Proveedor Sintetico 1932,Pequeno,Zacapa,60
+1933,Proveedor Sintetico 1933,Mediano,Escuintla,15
+1934,Proveedor Sintetico 1934,Pequeno,Zacapa,45
+1935,Proveedor Sintetico 1935,Corporativo,Escuintla,60
+1936,Proveedor Sintetico 1936,Pequeno,Mixco,45
+1937,Proveedor Sintetico 1937,Pequeno,Escuintla,15
+1938,Proveedor Sintetico 1938,Mediano,Guatemala,45
+1939,Proveedor Sintetico 1939,Pequeno,Escuintla,30
+1940,Proveedor Sintetico 1940,Mediano,Quetzaltenango,45
+1941,Proveedor Sintetico 1941,Pequeno,Guatemala,45
+1942,Proveedor Sintetico 1942,Mediano,Mixco,60
+1943,Proveedor Sintetico 1943,Pequeno,Villa Nueva,30
+1944,Proveedor Sintetico 1944,Mediano,Mixco,60
+1945,Proveedor Sintetico 1945,Corporativo,Zacapa,60
+1946,Proveedor Sintetico 1946,Pequeno,Quetzaltenango,15
+1947,Proveedor Sintetico 1947,Mediano,Zacapa,30
+1948,Proveedor Sintetico 1948,Mediano,Mixco,30
+1949,Proveedor Sintetico 1949,Mediano,Escuintla,45
+1950,Proveedor Sintetico 1950,Pequeno,Guatemala,15
+1951,Proveedor Sintetico 1951,Pequeno,Villa Nueva,15
+1952,Proveedor Sintetico 1952,Mediano,Quetzaltenango,60
+1953,Proveedor Sintetico 1953,Pequeno,Mixco,30
+1954,Proveedor Sintetico 1954,Pequeno,Escuintla,45
+1955,Proveedor Sintetico 1955,Mediano,Quetzaltenango,15
+1956,Proveedor Sintetico 1956,Pequeno,Zacapa,15
+1957,Proveedor Sintetico 1957,Mediano,Mixco,60
+1958,Proveedor Sintetico 1958,Pequeno,Villa Nueva,15
+1959,Proveedor Sintetico 1959,Pequeno,Quetzaltenango,15
+1960,Proveedor Sintetico 1960,Pequeno,Quetzaltenango,15
+1961,Proveedor Sintetico 1961,Pequeno,Guatemala,30
+1962,Proveedor Sintetico 1962,Pequeno,Mixco,60
+1963,Proveedor Sintetico 1963,Pequeno,Villa Nueva,45
+1964,Proveedor Sintetico 1964,Pequeno,Escuintla,60
+1965,Proveedor Sintetico 1965,Pequeno,Guatemala,15
+1966,Proveedor Sintetico 1966,Mediano,Guatemala,60
+1967,Proveedor Sintetico 1967,Pequeno,Mixco,45
+1968,Proveedor Sintetico 1968,Corporativo,Escuintla,30
+1969,Proveedor Sintetico 1969,Pequeno,Guatemala,45
+1970,Proveedor Sintetico 1970,Corporativo,Escuintla,30
+1971,Proveedor Sintetico 1971,Pequeno,Zacapa,30
+1972,Proveedor Sintetico 1972,Pequeno,Escuintla,15
+1973,Proveedor Sintetico 1973,Pequeno,Escuintla,45
+1974,Proveedor Sintetico 1974,Pequeno,Mixco,45
+1975,Proveedor Sintetico 1975,Pequeno,Guatemala,45
+1976,Proveedor Sintetico 1976,Corporativo,Mixco,60
+1977,Proveedor Sintetico 1977,Pequeno,Escuintla,15
+1978,Proveedor Sintetico 1978,Corporativo,Escuintla,45
+1979,Proveedor Sintetico 1979,Mediano,Zacapa,60
+1980,Proveedor Sintetico 1980,Pequeno,Quetzaltenango,15
+1981,Proveedor Sintetico 1981,Corporativo,Guatemala,15
+1982,Proveedor Sintetico 1982,Corporativo,Villa Nueva,30
+1983,Proveedor Sintetico 1983,Pequeno,Mixco,45
+1984,Proveedor Sintetico 1984,Mediano,Escuintla,30
+1985,Proveedor Sintetico 1985,Pequeno,Mixco,30
+1986,Proveedor Sintetico 1986,Corporativo,Guatemala,30
+1987,Proveedor Sintetico 1987,Mediano,Mixco,60
+1988,Proveedor Sintetico 1988,Pequeno,Zacapa,30
+1989,Proveedor Sintetico 1989,Pequeno,Escuintla,45
+1990,Proveedor Sintetico 1990,Pequeno,Villa Nueva,30
+1991,Proveedor Sintetico 1991,Pequeno,Quetzaltenango,60
+1992,Proveedor Sintetico 1992,Mediano,Escuintla,45
+1993,Proveedor Sintetico 1993,Mediano,Guatemala,60
+1994,Proveedor Sintetico 1994,Mediano,Villa Nueva,30
+1995,Proveedor Sintetico 1995,Pequeno,Quetzaltenango,30
+1996,Proveedor Sintetico 1996,Corporativo,Villa Nueva,15
+1997,Proveedor Sintetico 1997,Mediano,Quetzaltenango,30
+1998,Proveedor Sintetico 1998,Pequeno,Guatemala,60
+1999,Proveedor Sintetico 1999,Corporativo,Villa Nueva,30
+2000,Proveedor Sintetico 2000,Mediano,Quetzaltenango,30

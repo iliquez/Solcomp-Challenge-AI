@@ -1,0 +1,13 @@
+sucursal_id,nombre,departamento,region,pais,moneda
+1,Sucursal 01,Guatemala,Metropolitana,Guatemala,GTQ
+2,Sucursal 02,Quetzaltenango,Occidente,Guatemala,GTQ
+3,Sucursal 03,Escuintla,Sur,Guatemala,GTQ
+4,Sucursal 04,Zacapa,Oriente,Guatemala,GTQ
+5,Sucursal 05,Guatemala,Metropolitana,Guatemala,GTQ
+6,Sucursal 06,Quetzaltenango,Occidente,Guatemala,GTQ
+7,Sucursal 07,Escuintla,Sur,Guatemala,GTQ
+8,Sucursal 08,Zacapa,Oriente,Guatemala,GTQ
+9,Sucursal 09,Guatemala,Metropolitana,Guatemala,GTQ
+10,Sucursal 10,Quetzaltenango,Occidente,Guatemala,GTQ
+11,Sucursal 11,Escuintla,Sur,Guatemala,GTQ
+12,Sucursal 12,Zacapa,Oriente,Guatemala,GTQ

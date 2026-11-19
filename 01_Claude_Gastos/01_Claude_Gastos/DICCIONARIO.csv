@@ -1,0 +1,68 @@
+archivo,campo,tipo_sugerido_fuente,obligatorio,descripcion,referencia_operacional
+01_inicial/articulos.csv,articulo_id,integer,SI,"Concepto de gasto, producto o servicio según el caso.",
+01_inicial/articulos.csv,codigo,string,SI,Atributo descriptivo operacional; ver el nombre del campo.,
+01_inicial/articulos.csv,descripcion,string,SI,Atributo descriptivo operacional; ver el nombre del campo.,
+01_inicial/articulos.csv,familia_id,integer,SI,Clasificación operacional del artículo.,familias.csv:familia_id
+01_inicial/articulos.csv,unidad,string,SI,Atributo descriptivo operacional; ver el nombre del campo.,
+01_inicial/articulos.csv,costo_referencia,"decimal(18,2)",SI,Costo unitario fijo por producto para valorar movimientos de inventario.,
+01_inicial/detalle_documentos.csv,linea_id,integer,SI,"Identificador único global de línea, estable entre lotes.",
+01_inicial/detalle_documentos.csv,documento_id,integer,SI,Identificador único del documento en el sistema de origen.,documentos.csv:documento_id
+01_inicial/detalle_documentos.csv,numero_linea,integer,SI,Posición de la línea dentro del documento (1 a 4).,
+01_inicial/detalle_documentos.csv,articulo_id,integer,SI,"Concepto de gasto, producto o servicio según el caso.",articulos.csv:articulo_id
+01_inicial/detalle_documentos.csv,cantidad,integer,SI,Cantidad positiva; el signo físico se determina por el tipo del documento.,
+01_inicial/detalle_documentos.csv,precio_unitario,"decimal(18,2)",SI,"Precio, costo o tarifa unitaria antes de descuento e impuesto, en GTQ.",
+01_inicial/detalle_documentos.csv,descuento_pct,integer,SI,Porcentaje de descuento sobre cantidad por precio.,
+01_inicial/detalle_documentos.csv,base_neta,"decimal(18,2)",SI,"Cantidad por precio menos descuento, redondeada a dos decimales.",
+01_inicial/detalle_documentos.csv,impuesto,"decimal(18,2)",SI,"12% de la base neta, redondeado por línea; supuesto didáctico, no asesoría tributaria.",
+01_inicial/detalle_documentos.csv,total_linea,"decimal(18,2)",SI,"Base neta más impuesto; en inventario es valoración al costo, sin impuesto.",
+01_inicial/documentos.csv,documento_id,integer,SI,Identificador único del documento en el sistema de origen.,
+01_inicial/documentos.csv,fecha_documento,date YYYY-MM-DD,SI,"Fecha operacional del documento, ISO 8601.",
+01_inicial/documentos.csv,sucursal_id,integer,SI,Código de sucursal de origen; no es una clave dimensional.,sucursales.csv:sucursal_id
+01_inicial/documentos.csv,operador_id,integer,SI,Empleado responsable del documento.,operadores.csv:operador_id
+01_inicial/documentos.csv,tercero_id,integer,SI,"Proveedor, cliente o contraparte del documento según el caso.",terceros.csv:tercero_id
+01_inicial/documentos.csv,tipo,string,SI,Tipo operacional del documento; ver reglas del caso.,
+01_inicial/documentos.csv,estado,string,SI,VIGENTE o ANULADO; un documento anulado no produce efecto económico ni físico.,
+01_inicial/documentos.csv,fecha_vencimiento,date YYYY-MM-DD,SI,Fecha contractual del vencimiento de la factura.,
+01_inicial/documentos.csv,total_documento,"decimal(18,2)",SI,Suma de total_linea de sus cuatro líneas; no sumar una vez por línea tras un join.,
+01_inicial/documentos.csv,fecha_actualizacion,timestamp ISO 8601,SI,Marca de extracción; sirve como watermark del lote.,
+01_inicial/familias.csv,familia_id,integer,SI,Clasificación operacional del artículo.,
+01_inicial/familias.csv,nombre,string,SI,Atributo descriptivo operacional; ver el nombre del campo.,
+01_inicial/operadores.csv,operador_id,integer,SI,Empleado responsable del documento.,
+01_inicial/operadores.csv,nombre,string,SI,Atributo descriptivo operacional; ver el nombre del campo.,
+01_inicial/operadores.csv,sucursal_id,integer,SI,Código de sucursal de origen; no es una clave dimensional.,sucursales.csv:sucursal_id
+01_inicial/operadores.csv,cargo,string,SI,Atributo descriptivo operacional; ver el nombre del campo.,
+01_inicial/presupuestos.csv,periodo,string YYYY-MM,SI,Mes operacional en formato YYYY-MM.,
+01_inicial/presupuestos.csv,sucursal_id,integer,SI,Código de sucursal de origen; no es una clave dimensional.,sucursales.csv:sucursal_id
+01_inicial/presupuestos.csv,articulo_id,integer,SI,"Concepto de gasto, producto o servicio según el caso.",articulos.csv:articulo_id
+01_inicial/presupuestos.csv,importe_presupuesto,"decimal(18,2)",SI,Presupuesto mensual antes de impuestos en GTQ.,
+01_inicial/sucursales.csv,sucursal_id,integer,SI,Código de sucursal de origen; no es una clave dimensional.,
+01_inicial/sucursales.csv,nombre,string,SI,Atributo descriptivo operacional; ver el nombre del campo.,
+01_inicial/sucursales.csv,departamento,string,SI,Atributo descriptivo operacional; ver el nombre del campo.,
+01_inicial/sucursales.csv,region,string,SI,Atributo descriptivo operacional; ver el nombre del campo.,
+01_inicial/sucursales.csv,pais,string,SI,Atributo descriptivo operacional; ver el nombre del campo.,
+01_inicial/sucursales.csv,moneda,string,SI,Atributo descriptivo operacional; ver el nombre del campo.,
+01_inicial/terceros.csv,tercero_id,integer,SI,"Proveedor, cliente o contraparte del documento según el caso.",
+01_inicial/terceros.csv,nombre,string,SI,Atributo descriptivo operacional; ver el nombre del campo.,
+01_inicial/terceros.csv,segmento,string,SI,Atributo descriptivo operacional; ver el nombre del campo.,
+01_inicial/terceros.csv,municipio,string,SI,Atributo descriptivo operacional; ver el nombre del campo.,
+01_inicial/terceros.csv,plazo_dias,integer,SI,"Plazo contractual de crédito del tercero, en días.",
+02_incremental/detalle_documentos.csv,linea_id,integer,SI,"Identificador único global de línea, estable entre lotes.",
+02_incremental/detalle_documentos.csv,documento_id,integer,SI,Identificador único del documento en el sistema de origen.,documentos.csv:documento_id
+02_incremental/detalle_documentos.csv,numero_linea,integer,SI,Posición de la línea dentro del documento (1 a 4).,
+02_incremental/detalle_documentos.csv,articulo_id,integer,SI,"Concepto de gasto, producto o servicio según el caso.",articulos.csv:articulo_id
+02_incremental/detalle_documentos.csv,cantidad,integer,SI,Cantidad positiva; el signo físico se determina por el tipo del documento.,
+02_incremental/detalle_documentos.csv,precio_unitario,"decimal(18,2)",SI,"Precio, costo o tarifa unitaria antes de descuento e impuesto, en GTQ.",
+02_incremental/detalle_documentos.csv,descuento_pct,integer,SI,Porcentaje de descuento sobre cantidad por precio.,
+02_incremental/detalle_documentos.csv,base_neta,"decimal(18,2)",SI,"Cantidad por precio menos descuento, redondeada a dos decimales.",
+02_incremental/detalle_documentos.csv,impuesto,"decimal(18,2)",SI,"12% de la base neta, redondeado por línea; supuesto didáctico, no asesoría tributaria.",
+02_incremental/detalle_documentos.csv,total_linea,"decimal(18,2)",SI,"Base neta más impuesto; en inventario es valoración al costo, sin impuesto.",
+02_incremental/documentos.csv,documento_id,integer,SI,Identificador único del documento en el sistema de origen.,
+02_incremental/documentos.csv,fecha_documento,date YYYY-MM-DD,SI,"Fecha operacional del documento, ISO 8601.",
+02_incremental/documentos.csv,sucursal_id,integer,SI,Código de sucursal de origen; no es una clave dimensional.,sucursales.csv:sucursal_id
+02_incremental/documentos.csv,operador_id,integer,SI,Empleado responsable del documento.,operadores.csv:operador_id
+02_incremental/documentos.csv,tercero_id,integer,SI,"Proveedor, cliente o contraparte del documento según el caso.",terceros.csv:tercero_id
+02_incremental/documentos.csv,tipo,string,SI,Tipo operacional del documento; ver reglas del caso.,
+02_incremental/documentos.csv,estado,string,SI,VIGENTE o ANULADO; un documento anulado no produce efecto económico ni físico.,
+02_incremental/documentos.csv,fecha_vencimiento,date YYYY-MM-DD,SI,Fecha contractual del vencimiento de la factura.,
+02_incremental/documentos.csv,total_documento,"decimal(18,2)",SI,Suma de total_linea de sus cuatro líneas; no sumar una vez por línea tras un join.,
+02_incremental/documentos.csv,fecha_actualizacion,timestamp ISO 8601,SI,Marca de extracción; sirve como watermark del lote.,

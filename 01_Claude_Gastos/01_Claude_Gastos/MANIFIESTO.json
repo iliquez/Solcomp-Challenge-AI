@@ -1,0 +1,123 @@
+{
+  "version": "1.0",
+  "sintetico": true,
+  "equipo": "Claude",
+  "caso": "Control de gastos y presupuesto",
+  "semilla": 2026110601,
+  "lineas_iniciales": 4900000,
+  "lineas_incrementales": 100000,
+  "lineas_totales": 5000000,
+  "documentos_totales": 1250000,
+  "periodo_inicial": [
+    "2024-01-01",
+    "2026-10-31"
+  ],
+  "periodo_incremental": [
+    "2026-11-01",
+    "2026-11-05"
+  ],
+  "archivos": [
+    {
+      "ruta": "01_inicial/articulos.csv",
+      "filas_datos": 120,
+      "bytes": 5904,
+      "sha256": "a32a22fad8a3d9f5d1bf616cc5ff15fb3630d0d13b18247dee35d0044793a29f"
+    },
+    {
+      "ruta": "01_inicial/detalle_documentos.csv",
+      "filas_datos": 4900000,
+      "bytes": 255836711,
+      "sha256": "932aed207e1613de72625e5ff751f973a6dea5f7a69ce180c94dc4f8170a3b1a"
+    },
+    {
+      "ruta": "01_inicial/documentos.csv",
+      "filas_datos": 1225000,
+      "bytes": 99099703,
+      "sha256": "29c56812ea1aa3f976dc532e187bcb9ee698478d864b146a0cc6df704ed5ab4e"
+    },
+    {
+      "ruta": "01_inicial/familias.csv",
+      "filas_datos": 10,
+      "bytes": 146,
+      "sha256": "4c5d8a0777203907b61f40972cc31f4589fae24dd5f8c193727b0af9344a8ee2"
+    },
+    {
+      "ruta": "01_inicial/operadores.csv",
+      "filas_datos": 120,
+      "bytes": 5239,
+      "sha256": "e7cd9eb257eb4f5c55acf80f3e06141aaef7d8cec97cf145d65eaf6ddfa8829a"
+    },
+    {
+      "ruta": "01_inicial/presupuestos.csv",
+      "filas_datos": 50400,
+      "bytes": 1110911,
+      "sha256": "b9c2413fc196b21397b5a223ba19878b2aa716f933d60f8e5fe834b1e3825a2a"
+    },
+    {
+      "ruta": "01_inicial/sucursales.csv",
+      "filas_datos": 12,
+      "bytes": 624,
+      "sha256": "bbe8a61c42fcce6b7de577ce3a9d9c8a9d5093536491c99829a508a7de32562f"
+    },
+    {
+      "ruta": "01_inicial/terceros.csv",
+      "filas_datos": 2000,
+      "bytes": 101907,
+      "sha256": "e679ef07a726cdc5d365f203f46dde7d632e7db1e2b8f911ee287b84a3c5cbe9"
+    },
+    {
+      "ruta": "02_incremental/detalle_documentos.csv",
+      "filas_datos": 100000,
+      "bytes": 5358538,
+      "sha256": "7b18dcfab556df54dccfc549bbaa72657b2d85e629c9f5398d7c2ee7c86e0bd6"
+    },
+    {
+      "ruta": "02_incremental/documentos.csv",
+      "filas_datos": 25000,
+      "bytes": 2045901,
+      "sha256": "b2c0bb3ac355fe7e22fc10d0a75329ea076b44d75db454242d03d4939dd98722"
+    },
+    {
+      "ruta": "03_pruebas_controladas/LEER_PRIMERO.txt",
+      "filas_datos": null,
+      "bytes": 394,
+      "sha256": "092091e39ecbdfe760db1f362c2603d89cb450652ed32f01d9fa6ebddc64360c"
+    },
+    {
+      "ruta": "03_pruebas_controladas/cantidad_faltante.csv",
+      "filas_datos": null,
+      "bytes": 156,
+      "sha256": "6dc02ef50e421c302db4afb10f42a4d186504e51068b4de84e13c2f2a58665db"
+    },
+    {
+      "ruta": "03_pruebas_controladas/duplicado.csv",
+      "filas_datos": null,
+      "bytes": 205,
+      "sha256": "c79863da41e47bcd1dbf0b48a932739d1daa9f8dd77981f38f9d44b2d4f5abc0"
+    },
+    {
+      "ruta": "03_pruebas_controladas/importe_inconsistente.csv",
+      "filas_datos": null,
+      "bytes": 156,
+      "sha256": "da9326f3cb6ddbced8d939e517274cb648dc8e63bbb68f4f6523b3a520568fe6"
+    },
+    {
+      "ruta": "03_pruebas_controladas/referencia_inexistente.csv",
+      "filas_datos": null,
+      "bytes": 161,
+      "sha256": "1e39c890fcc88bbd9be21939e8abf747a7c3e67b934210a73fea4ee6f18ffce5"
+    },
+    {
+      "ruta": "DICCIONARIO.csv",
+      "filas_datos": null,
+      "bytes": 8147,
+      "sha256": "5b283b058225d9ea207f2cf6382148f36ee29f7fcba32eb05bda8a3ed57ad21f"
+    },
+    {
+      "ruta": "LEEME.txt",
+      "filas_datos": null,
+      "bytes": 4438,
+      "sha256": "6e25d247a4343045037631db2d04e01afd5c774d534ae17d85e8baf4980ff800"
+    }
+  ]
+}

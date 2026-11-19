@@ -1,0 +1,37 @@
+RETO: Control de gastos y presupuesto
+Equipo: Claude
+
+Todos los nombres y registros son sintéticos. Ningún dato corresponde a personas o empresas reales. País: Guatemala; moneda única: GTQ. Importes con punto decimal, sin separador de miles. Archivos CSV UTF-8, separador coma, encabezado en primera línea.
+
+ALCANCE
+5,000,000 de líneas operacionales, en 1,250,000 documentos de cuatro líneas. Este conteo excluye catálogos, cabeceras, presupuestos/metas/políticas/pagos y pruebas aisladas.
+01_inicial: 4,900,000 líneas, 1,225,000 documentos, del 2024-01-01 al 2026-10-31.
+02_incremental: 100,000 líneas, 25,000 documentos, del 2026-11-01 al 2026-11-05. IDs globales disjuntos entre lotes. Los catálogos se entregan una sola vez y sirven para ambos lotes. No existen actualizaciones ni borrados en este incremental; todos son registros nuevos. Los documentos históricos ya anulados se entregan con su estado final.
+
+CONTEXTO DE ORIGEN
+Exportación operacional de una empresa con 12 sucursales, 120 operadores y 2,000 terceros. Se entregan catálogos y documentos con sus líneas; no es un almacén dimensional. Los identificadores corresponden al sistema fuente. No se entrega grano analítico, dimensiones ni tablas de hechos resueltos: su definición y justificación forman parte del reto. Los catálogos no tienen historial de cambios; no se exige SCD tipo 2 en esta edición.
+
+REGLAS DEL NEGOCIO
+El presupuesto se compara contra base_neta de documentos VIGENTES, sin impuesto. El archivo contiene presupuestos mensuales completos, incluido noviembre; no comparar cinco días de noviembre contra el mes completo sin explicitar el criterio. La interfaz permite registrar una observación sobre una desviación.
+Los importes monetarios están redondeados por línea. base_neta = redondeo(cantidad × precio_unitario × (1 - descuento_pct/100), 2). En casos no inventario, impuesto = redondeo(base_neta × 12%, 2) y total_linea = base_neta + impuesto. En inventario, impuesto=0 y base_neta=total_linea=cantidad × costo. Usar aritmética decimal o centavos enteros, redondeo HALF_UP. total_documento es la suma de sus cuatro líneas, incluso si está anulado; filtrar estado para métricas de negocio. Los valores de presupuesto y metas son objetivos sintéticos, no conciliaciones contables. La fecha_actualizacion marca el lote de extracción, no la hora de creación del evento.
+
+PREGUNTAS DE NEGOCIO
+1. ¿Qué sucursales y conceptos explican las desviaciones del presupuesto?
+2. ¿Cómo evoluciona el gasto neto mensual por región?
+3. ¿Qué proveedores concentran el gasto?
+4. ¿Qué partidas deben revisarse primero y por qué?
+5. ¿Qué cambió tras la carga incremental?
+
+ENTREGABLES Y LÍMITES COMUNES
+Prototipo funcional en 25–30 horas de trabajo de equipo. Diseñar el modelo dimensional, implementar carga inicial y carga incremental idempotente, controles de calidad, tablero de dos páginas con cinco indicadores, una interfaz sencilla, cinco consultas de negocio con IA y un agente que supervise ejecuciones y alerte sobre una prueba fallida. La IA debe consultar resultados agregados o herramientas; no cargar millones de filas en un prompt.
+Documentación técnica, propuesta/cotización (precios ilustrativos; se evalúa formato y contenido), presentación de cinco diapositivas y demostración. Todo entregable y sus correcciones se generan con IA; cuando no haya integración se permite copiar y pegar. Reuniones del reto en Teams, grabadas y disponibles. Finaliza el 10 de diciembre de 2026.
+El alcance excluye integración con sistemas reales, seguridad empresarial avanzada y despliegue productivo. El equipo debe elegir y justificar la tecnología y medir tiempos reales de carga/consulta en el entorno disponible. Excel no admite cinco millones de filas en una hoja; usar un motor de datos o su modelo de datos.
+
+ARCHIVOS
+01_inicial y 02_incremental: datos de trabajo.
+03_pruebas_controladas: registros alterados aislados para probar fallos; NO unirlos a la carga válida.
+DICCIONARIO.csv: campos, tipos y referencias operacionales.
+MANIFIESTO.json: conteos y hashes SHA-256 por archivo.
+
+COMPROBACIÓN DEL INCREMENTAL
+Procesar primero 01_inicial; registrar conteos y métricas. Cargar 02_incremental, registrar diferencias y volver a ejecutar el mismo lote: conteos y métricas deben permanecer sin cambios. En cobranza, nuevos pagos de documentos históricos también deben actualizar el saldo.
