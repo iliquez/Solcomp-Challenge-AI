@@ -1,0 +1,753 @@
+{
+ "tablas": {
+  "articulos": {
+   "filas": 120,
+   "columnas": [
+    {
+     "columna": "articulo_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 120,
+     "min": "1",
+     "max": "120"
+    },
+    {
+     "columna": "codigo",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 124,
+     "min": "GAS-00001",
+     "max": "GAS-00120"
+    },
+    {
+     "columna": "descripcion",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 109,
+     "min": "Concepto sintetico 0001",
+     "max": "Concepto sintetico 0120"
+    },
+    {
+     "columna": "familia_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 10,
+     "min": "1",
+     "max": "10"
+    },
+    {
+     "columna": "unidad",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 1,
+     "min": "UN",
+     "max": "UN"
+    },
+    {
+     "columna": "costo_referencia",
+     "tipo": "double",
+     "nulos": 0,
+     "distintos_aprox": 114,
+     "min": "3.77",
+     "max": "198.41"
+    }
+   ]
+  },
+  "familias": {
+   "filas": 10,
+   "columnas": [
+    {
+     "columna": "familia_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 10,
+     "min": "1",
+     "max": "10"
+    },
+    {
+     "columna": "nombre",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 10,
+     "min": "Administracion",
+     "max": "Tecnologia"
+    }
+   ]
+  },
+  "operadores": {
+   "filas": 120,
+   "columnas": [
+    {
+     "columna": "operador_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 120,
+     "min": "1",
+     "max": "120"
+    },
+    {
+     "columna": "nombre",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 113,
+     "min": "Colaborador Sintetico 001",
+     "max": "Colaborador Sintetico 120"
+    },
+    {
+     "columna": "sucursal_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 12,
+     "min": "1",
+     "max": "12"
+    },
+    {
+     "columna": "cargo",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 1,
+     "min": "Solicitante",
+     "max": "Solicitante"
+    }
+   ]
+  },
+  "sucursales": {
+   "filas": 12,
+   "columnas": [
+    {
+     "columna": "sucursal_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 12,
+     "min": "1",
+     "max": "12"
+    },
+    {
+     "columna": "nombre",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 12,
+     "min": "Sucursal 01",
+     "max": "Sucursal 12"
+    },
+    {
+     "columna": "departamento",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 4,
+     "min": "Escuintla",
+     "max": "Zacapa"
+    },
+    {
+     "columna": "region",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 4,
+     "min": "Metropolitana",
+     "max": "Sur"
+    },
+    {
+     "columna": "pais",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 1,
+     "min": "Guatemala",
+     "max": "Guatemala"
+    },
+    {
+     "columna": "moneda",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 1,
+     "min": "GTQ",
+     "max": "GTQ"
+    }
+   ]
+  },
+  "terceros": {
+   "filas": 2000,
+   "columnas": [
+    {
+     "columna": "tercero_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 2023,
+     "min": "1",
+     "max": "2000"
+    },
+    {
+     "columna": "nombre",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 1950,
+     "min": "Proveedor Sintetico 0001",
+     "max": "Proveedor Sintetico 2000"
+    },
+    {
+     "columna": "segmento",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 3,
+     "min": "Corporativo",
+     "max": "Pequeno"
+    },
+    {
+     "columna": "municipio",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 6,
+     "min": "Escuintla",
+     "max": "Zacapa"
+    },
+    {
+     "columna": "plazo_dias",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 3,
+     "min": "15",
+     "max": "60"
+    }
+   ]
+  },
+  "presupuestos": {
+   "filas": 50400,
+   "columnas": [
+    {
+     "columna": "periodo",
+     "tipo": "timestamp",
+     "nulos": 0,
+     "distintos_aprox": 36,
+     "min": "2024-01-01 00:00:00",
+     "max": "2026-11-01 00:00:00"
+    },
+    {
+     "columna": "sucursal_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 12,
+     "min": "1",
+     "max": "12"
+    },
+    {
+     "columna": "articulo_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 120,
+     "min": "1",
+     "max": "120"
+    },
+    {
+     "columna": "importe_presupuesto",
+     "tipo": "double",
+     "nulos": 0,
+     "distintos_aprox": 7871,
+     "min": "4004.35",
+     "max": "34380.0"
+    }
+   ]
+  },
+  "documentos_inicial": {
+   "filas": 1225000,
+   "columnas": [
+    {
+     "columna": "documento_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 1133468,
+     "min": "1",
+     "max": "1225000"
+    },
+    {
+     "columna": "fecha_documento",
+     "tipo": "date",
+     "nulos": 0,
+     "distintos_aprox": 1019,
+     "min": "2024-01-01",
+     "max": "2026-10-31"
+    },
+    {
+     "columna": "sucursal_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 12,
+     "min": "1",
+     "max": "12"
+    },
+    {
+     "columna": "operador_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 120,
+     "min": "1",
+     "max": "120"
+    },
+    {
+     "columna": "tercero_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 2023,
+     "min": "1",
+     "max": "2000"
+    },
+    {
+     "columna": "tipo",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 1,
+     "min": "GASTO",
+     "max": "GASTO"
+    },
+    {
+     "columna": "estado",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 2,
+     "min": "ANULADO",
+     "max": "VIGENTE"
+    },
+    {
+     "columna": "fecha_vencimiento",
+     "tipo": "date",
+     "nulos": 0,
+     "distintos_aprox": 1049,
+     "min": "2024-01-16",
+     "max": "2026-12-30"
+    },
+    {
+     "columna": "total_documento",
+     "tipo": "double",
+     "nulos": 0,
+     "distintos_aprox": 586991,
+     "min": "300.79",
+     "max": "16722.81"
+    },
+    {
+     "columna": "fecha_actualizacion",
+     "tipo": "timestamp",
+     "nulos": 0,
+     "distintos_aprox": 1,
+     "min": "2026-10-31 23:59:59",
+     "max": "2026-10-31 23:59:59"
+    }
+   ]
+  },
+  "detalle_inicial": {
+   "filas": 4900000,
+   "columnas": [
+    {
+     "columna": "linea_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 4874624,
+     "min": "1",
+     "max": "4900000"
+    },
+    {
+     "columna": "documento_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 1133468,
+     "min": "1",
+     "max": "1225000"
+    },
+    {
+     "columna": "numero_linea",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 4,
+     "min": "1",
+     "max": "4"
+    },
+    {
+     "columna": "articulo_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 120,
+     "min": "1",
+     "max": "120"
+    },
+    {
+     "columna": "cantidad",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 8,
+     "min": "1",
+     "max": "8"
+    },
+    {
+     "columna": "precio_unitario",
+     "tipo": "double",
+     "nulos": 0,
+     "distintos_aprox": 743,
+     "min": "29.17",
+     "max": "553.57"
+    },
+    {
+     "columna": "descuento_pct",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 3,
+     "min": "0",
+     "max": "10"
+    },
+    {
+     "columna": "base_neta",
+     "tipo": "double",
+     "nulos": 0,
+     "distintos_aprox": 16478,
+     "min": "26.25",
+     "max": "4428.56"
+    },
+    {
+     "columna": "impuesto",
+     "tipo": "double",
+     "nulos": 0,
+     "distintos_aprox": 12456,
+     "min": "3.15",
+     "max": "531.43"
+    },
+    {
+     "columna": "total_linea",
+     "tipo": "double",
+     "nulos": 0,
+     "distintos_aprox": 16288,
+     "min": "29.4",
+     "max": "4959.99"
+    }
+   ]
+  },
+  "documentos_incremental": {
+   "filas": 25000,
+   "columnas": [
+    {
+     "columna": "documento_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 28112,
+     "min": "1225001",
+     "max": "1250000"
+    },
+    {
+     "columna": "fecha_documento",
+     "tipo": "date",
+     "nulos": 0,
+     "distintos_aprox": 5,
+     "min": "2026-11-01",
+     "max": "2026-11-05"
+    },
+    {
+     "columna": "sucursal_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 12,
+     "min": "1",
+     "max": "12"
+    },
+    {
+     "columna": "operador_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 120,
+     "min": "1",
+     "max": "120"
+    },
+    {
+     "columna": "tercero_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 2023,
+     "min": "1",
+     "max": "2000"
+    },
+    {
+     "columna": "tipo",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 1,
+     "min": "GASTO",
+     "max": "GASTO"
+    },
+    {
+     "columna": "estado",
+     "tipo": "string",
+     "nulos": 0,
+     "distintos_aprox": 2,
+     "min": "ANULADO",
+     "max": "VIGENTE"
+    },
+    {
+     "columna": "fecha_vencimiento",
+     "tipo": "date",
+     "nulos": 0,
+     "distintos_aprox": 20,
+     "min": "2026-11-16",
+     "max": "2027-01-04"
+    },
+    {
+     "columna": "total_documento",
+     "tipo": "double",
+     "nulos": 0,
+     "distintos_aprox": 24786,
+     "min": "342.74",
+     "max": "15301.89"
+    },
+    {
+     "columna": "fecha_actualizacion",
+     "tipo": "timestamp",
+     "nulos": 0,
+     "distintos_aprox": 1,
+     "min": "2026-11-05 23:59:59",
+     "max": "2026-11-05 23:59:59"
+    }
+   ]
+  },
+  "detalle_incremental": {
+   "filas": 100000,
+   "columnas": [
+    {
+     "columna": "linea_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 100451,
+     "min": "4900001",
+     "max": "5000000"
+    },
+    {
+     "columna": "documento_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 28112,
+     "min": "1225001",
+     "max": "1250000"
+    },
+    {
+     "columna": "numero_linea",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 4,
+     "min": "1",
+     "max": "4"
+    },
+    {
+     "columna": "articulo_id",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 120,
+     "min": "1",
+     "max": "120"
+    },
+    {
+     "columna": "cantidad",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 8,
+     "min": "1",
+     "max": "8"
+    },
+    {
+     "columna": "precio_unitario",
+     "tipo": "double",
+     "nulos": 0,
+     "distintos_aprox": 120,
+     "min": "37.05",
+     "max": "553.57"
+    },
+    {
+     "columna": "descuento_pct",
+     "tipo": "int",
+     "nulos": 0,
+     "distintos_aprox": 3,
+     "min": "0",
+     "max": "10"
+    },
+    {
+     "columna": "base_neta",
+     "tipo": "double",
+     "nulos": 0,
+     "distintos_aprox": 2849,
+     "min": "33.35",
+     "max": "4428.56"
+    },
+    {
+     "columna": "impuesto",
+     "tipo": "double",
+     "nulos": 0,
+     "distintos_aprox": 2623,
+     "min": "4.0",
+     "max": "531.43"
+    },
+    {
+     "columna": "total_linea",
+     "tipo": "double",
+     "nulos": 0,
+     "distintos_aprox": 2916,
+     "min": "37.35",
+     "max": "4959.99"
+    }
+   ]
+  }
+ },
+ "lote_inicial": {
+  "estado": {
+   "ANULADO": 24391,
+   "VIGENTE": 1200609
+  },
+  "tipo": {
+   "GASTO": 1225000
+  },
+  "documentos_duplicados_por_id": 0,
+  "lineas_duplicadas_por_linea_id": 0,
+  "lineas_por_documento": {
+   "4": 1225000
+  },
+  "numero_linea": {
+   "1": 1225000,
+   "2": 1225000,
+   "3": 1225000,
+   "4": 1225000
+  },
+  "descuento_pct": {
+   "0": 3676534,
+   "5": 979396,
+   "10": 244070
+  },
+  "cantidad_min_max": [
+   "1",
+   "8"
+  ],
+  "huerfanos": {
+   "detalle_sin_documento": 0,
+   "detalle_sin_articulo": 0,
+   "documento_sin_sucursal": 0,
+   "documento_sin_operador": 0,
+   "documento_sin_tercero": 0,
+   "documento_sin_detalle": 0
+  },
+  "diferencias_calculo_lineas": {
+   "base_neta": 0,
+   "impuesto": 0,
+   "total_linea": 0
+  },
+  "total_documento_distinto_de_suma_lineas": 0,
+  "fecha": {
+   "min": "2024-01-01",
+   "max": "2026-10-31"
+  },
+  "fecha_actualizacion_distintas": [
+   "2026-10-31 23:59:59"
+  ],
+  "vencimiento_anterior_a_fecha": 0,
+  "meses": {
+   "cantidad": 34,
+   "min_docs": 33140,
+   "max_docs": 36691
+  },
+  "base_neta_vigente_total": "5287281810.78",
+  "base_neta_total_incluye_anulados": "5394745498.02"
+ },
+ "lote_incremental": {
+  "estado": {
+   "ANULADO": 480,
+   "VIGENTE": 24520
+  },
+  "tipo": {
+   "GASTO": 25000
+  },
+  "documentos_duplicados_por_id": 0,
+  "lineas_duplicadas_por_linea_id": 0,
+  "lineas_por_documento": {
+   "4": 25000
+  },
+  "numero_linea": {
+   "1": 25000,
+   "2": 25000,
+   "3": 25000,
+   "4": 25000
+  },
+  "descuento_pct": {
+   "0": 75081,
+   "5": 19923,
+   "10": 4996
+  },
+  "cantidad_min_max": [
+   "1",
+   "8"
+  ],
+  "huerfanos": {
+   "detalle_sin_documento": 0,
+   "detalle_sin_articulo": 0,
+   "documento_sin_sucursal": 0,
+   "documento_sin_operador": 0,
+   "documento_sin_tercero": 0,
+   "documento_sin_detalle": 0
+  },
+  "diferencias_calculo_lineas": {
+   "base_neta": 0,
+   "impuesto": 0,
+   "total_linea": 0
+  },
+  "total_documento_distinto_de_suma_lineas": 0,
+  "fecha": {
+   "min": "2026-11-01",
+   "max": "2026-11-05"
+  },
+  "fecha_actualizacion_distintas": [
+   "2026-11-05 23:59:59"
+  ],
+  "vencimiento_anterior_a_fecha": 0,
+  "meses": {
+   "cantidad": 1,
+   "min_docs": 25000,
+   "max_docs": 25000
+  },
+  "base_neta_vigente_total": "125908162.45",
+  "base_neta_total_incluye_anulados": "128385143.79"
+ },
+ "traslape_inicial_vs_incremental": {
+  "documento_id_en_ambos": 0,
+  "linea_id_en_ambos": 0
+ },
+ "presupuestos": {
+  "periodos": {
+   "min": "2024-01-01 00:00:00",
+   "max": "2026-11-01 00:00:00",
+   "distintos": 35
+  },
+  "duplicados_clave_periodo_sucursal_articulo": 0,
+  "sin_sucursal": 0,
+  "sin_articulo": 0,
+  "importe_min_max_total": [
+   "4004.35",
+   "34380.0",
+   "792896472.00"
+  ]
+ },
+ "catalogos": {
+  "sucursales_por_region": {
+   "Metropolitana": 3,
+   "Occidente": 3,
+   "Oriente": 3,
+   "Sur": 3
+  },
+  "sucursales_por_departamento": {
+   "Escuintla": 3,
+   "Guatemala": 3,
+   "Quetzaltenango": 3,
+   "Zacapa": 3
+  },
+  "terceros_por_segmento": {
+   "Corporativo": 286,
+   "Mediano": 724,
+   "Pequeno": 990
+  },
+  "terceros_plazo_dias": {
+   "15": 550,
+   "30": 516,
+   "45": 469,
+   "60": 465
+  },
+  "operadores_por_cargo": {
+   "Solicitante": 120
+  }
+ }
+}
